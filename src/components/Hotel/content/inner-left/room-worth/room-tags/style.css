@@ -1,0 +1,19 @@
+.ant-tag {
+  margin: 8px;
+}
+
+.tags-inner span {
+  margin: 4px;
+  font-size: 16px;
+  padding: 5px 10px;
+}
+.tags-inner {
+  margin-bottom: 60px;
+}
+.ant-divider-inner-text {
+  font-size: 32px;
+  margin-bottom: 40px;
+}
+.ant-progress-circle .ant-progress-text {
+  font-size: 42px !important;
+}

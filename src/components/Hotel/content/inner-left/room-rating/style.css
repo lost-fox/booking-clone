@@ -1,0 +1,22 @@
+@import '~antd/dist/antd.css';
+
+.room-rating {
+  width: 45%;
+}
+
+.plug-rating {
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 100px;
+}
+.ant-progress-circle .ant-progress-inner {
+  width: 300px !important;
+  height: 300px !important;
+  margin-bottom: 20px;
+}
+.score-text {
+  font-size: 26px;
+}

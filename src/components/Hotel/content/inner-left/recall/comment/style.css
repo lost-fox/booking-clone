@@ -1,0 +1,50 @@
+.comment {
+  margin-bottom: 22px;
+}
+
+.comment-author {
+  display: flex;
+}
+
+.icon-author {
+  height: 44px;
+  width: 44px;
+  border-radius: 50%;
+  background-image: url('https://via.placeholder.com/300x300');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-bottom: 10px;
+}
+
+.name-author {
+  padding-left: 10px;
+}
+
+.name-author_comment {
+  margin: 0;
+}
+
+.like-amount {
+  border: 1px rgb(163, 92, 245) solid;
+  border-radius: 10px;
+  height: 18px;
+  width: 42px;
+  color: #a35cf5;
+  position: absolute;
+  text-align: center;
+}
+
+.comment-text {
+  display: flex;
+  position: relative;
+}
+
+.comment-text p {
+  margin: 0;
+  padding-left: 54px;
+}
+
+.ant-list * {
+  font-size: 18px !important;
+}

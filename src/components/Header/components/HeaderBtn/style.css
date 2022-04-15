@@ -1,0 +1,32 @@
+.header-btns {
+  display: flex;
+}
+.header-btn {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  height: 40px;
+  text-transform: uppercase;
+  border-radius: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 20px;
+  cursor: pointer;
+}
+
+.sign-out {
+  color: #ffffff;
+  background-color: #f06868;
+}
+
+.sign-out:hover {
+  color: #ffffff;
+  background-color: #ff0a0a;
+}
+
+.header-user-name {
+  font-size: 26px;
+  padding-right: 10px;
+}

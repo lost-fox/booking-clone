@@ -1,0 +1,14 @@
+.collage {
+  filter: brightness(0.5);
+  margin-bottom: 150px;
+}
+.collage .ant-carousel {
+  height: 600px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.hotel-slider-img {
+  object-fit: cover;
+  height: 600px;
+}

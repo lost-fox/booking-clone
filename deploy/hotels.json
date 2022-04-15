@@ -1,0 +1,3142 @@
+{
+  "primary_count": 318,
+  "count": 318,
+  "room_distribution": [{ "adults": "1", "children": [5] }],
+  "map_bounding_box": {
+    "ne_lat": 55.9111138875777,
+    "sw_lat": 55.5361414,
+    "ne_long": 37.7945083379745,
+    "sw_long": 37.32897073
+  },
+  "total_count_with_filters": 318,
+  "unfiltered_count": 5397,
+  "extended_count": 0,
+  "unfiltered_primary_count": 5397,
+  "search_radius": 0.0,
+  "sort": [
+    { "name": "Расстояние от центра города", "id": "distance" },
+    { "id": "popularity", "name": "Популярность" },
+    { "id": "class_descending", "name": "Звезды (от 5 до 0)" },
+    { "id": "class_ascending", "name": "Звезды (от 0 до 5)" },
+    { "name": "Оценка гостей", "id": "bayesian_review_score" },
+    { "id": "price", "name": "Цена (от низкой до высокой)" }
+  ],
+  "result": [
+    {
+      "min_total_price": 3780,
+      "cc1": "ru",
+      "hotel_name": "Holiday Inn Moscow Suschevsky, an IHG Hotel",
+      "genius_discount_percentage": 0,
+      "native_ads_cpc": 0.0,
+      "cant_book": 0,
+      "cc_required": 1,
+      "is_city_center": 0,
+      "district": "Мещанский",
+      "type": "property_card",
+      "checkin": { "from": "14:00", "until": "00:00" },
+      "is_mobile_deal": 0,
+      "distances": [
+        {
+          "icon_set": null,
+          "text": "‎Мещанский‬ • ‎4,5 км от центра‬",
+          "icon_name": "bui_geo_pin"
+        }
+      ],
+      "extended": 0,
+      "class": 4.0,
+      "address": "Ulitsa Suschevsky Val 74",
+      "accommodation_type_name": "Отель",
+      "is_free_cancellable": 1,
+      "main_photo_id": 255977778,
+      "district_id": 1696,
+      "is_smart_deal": 0,
+      "native_ads_tracking": "",
+      "review_recommendation": "",
+      "hotel_name_trans": "Холидей Инн Москва Сущевский",
+      "mobile_discount_percentage": 0,
+      "distance_to_cc": "4.50",
+      "is_beach_front": 0,
+      "hotel_include_breakfast": 0,
+      "city_trans": "Москва",
+      "preferred_plus": 0,
+      "price_breakdown": {
+        "currency": "RUB",
+        "all_inclusive_price": 3780.0,
+        "has_fine_print_charges": 1,
+        "gross_price": "3780.00",
+        "has_tax_exceptions": 0,
+        "sum_excluded_raw": "0.00",
+        "has_incalculable_charges": 0
+      },
+      "unit_configuration_label": "<b>Номер в отеле</b>: 1 кровать",
+      "is_no_prepayment_block": 0,
+      "distance": "4.47",
+      "soldout": 0,
+      "hotel_facilities": "497,425,174,4,437,219,452,462,210,20,163,424,439,22,80,96,257,177,23,158,91,488,53,420,101,51,209,43,457,467,189,450,49,460,108,180,81,459,187,133,8,6,205,454,17,25,2,464,185,455,111,465,5,184,204,422,7,485,186,47,304,423,206,445,305,253,3,466,64,456,449,451,461,487,458,468,109,129,135,436,127,11,107,421,188,143,16,418,176,48,463,44,453",
+      "composite_price_breakdown": {
+        "product_price_breakdowns": [
+          {
+            "excluded_amount": { "value": 0, "currency": "RUB" },
+            "gross_amount_per_night": { "currency": "RUB", "value": 3780.0 },
+            "benefits": [],
+            "net_amount": { "value": 3150, "currency": "RUB" },
+            "items": [
+              {
+                "inclusion_type": "included",
+                "item_amount": { "value": 630, "currency": "RUB" },
+                "details": "НДС в размере 20 % ",
+                "kind": "charge",
+                "name": "НДС",
+                "base": { "kind": "percentage", "percentage": 20.0 }
+              }
+            ],
+            "included_taxes_and_charges_amount": {
+              "value": 630,
+              "currency": "RUB"
+            },
+            "gross_amount": { "currency": "RUB", "value": 3780 },
+            "all_inclusive_amount": { "currency": "RUB", "value": 3780 }
+          }
+        ],
+        "net_amount": { "value": 3150, "currency": "RUB" },
+        "benefits": [],
+        "excluded_amount": { "currency": "RUB", "value": 0 },
+        "gross_amount_per_night": { "currency": "RUB", "value": 3780.0 },
+        "all_inclusive_amount": { "currency": "RUB", "value": 3780 },
+        "gross_amount": { "currency": "RUB", "value": 3780 },
+        "included_taxes_and_charges_amount": {
+          "currency": "RUB",
+          "value": 630
+        },
+        "items": [
+          {
+            "inclusion_type": "included",
+            "item_amount": { "value": 630, "currency": "RUB" },
+            "kind": "charge",
+            "details": "НДС в размере 20 % ",
+            "name": "НДС",
+            "base": { "percentage": 20.0, "kind": "percentage" }
+          }
+        ]
+      },
+      "districts": "1696,2134,12109",
+      "badges": [],
+      "zip": "129272",
+      "countrycode": "ru",
+      "is_genius_deal": 0,
+      "id": "property_card_179259",
+      "default_language": "en",
+      "city_in_trans": "в Москве",
+      "currency_code": "RUB",
+      "hotel_has_vb_boost": 0,
+      "timezone": "Europe/Moscow",
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/255977778.jpg?k=a562411e8bc26ae3aa2ef5947942513754d44792a9764fd8628660266c2decde&o=",
+      "block_ids": ["17925907_328284636_3_2_0"],
+      "review_nr": 5170,
+      "city": "Moscow",
+      "address_trans": "Улица Сущевский Вал 74",
+      "currencycode": "RUB",
+      "city_name_en": "Moscow",
+      "wishlist_count": 0,
+      "checkout": { "from": "11:00", "until": "12:00" },
+      "default_wishlist_name": "Москва",
+      "latitude": 55.7912422396223,
+      "native_ad_id": "",
+      "is_geo_rate": "",
+      "selected_review_topic": null,
+      "class_is_estimated": 0,
+      "preferred": 1,
+      "bwallet": { "hotel_eligibility": 0 },
+      "country_trans": "Россия",
+      "in_best_district": 0,
+      "hotel_id": 179259,
+      "accommodation_type": 204,
+      "url": "https://www.booking.com/hotel/ru/holiday-inn-moscow-suschevsky.html",
+      "ufi": -2960561,
+      "review_score": 8.5,
+      "price_is_final": 0,
+      "longitude": 37.6329159736633,
+      "review_score_word": "Очень хорошо",
+      "children_not_allowed": 0,
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/255977778.jpg?k=a562411e8bc26ae3aa2ef5947942513754d44792a9764fd8628660266c2decde&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/255977778.jpg?k=a562411e8bc26ae3aa2ef5947942513754d44792a9764fd8628660266c2decde&o="
+    },
+    {
+      "preferred": 1,
+      "bwallet": { "hotel_eligibility": 0 },
+      "class_is_estimated": 0,
+      "native_ad_id": "",
+      "is_geo_rate": "",
+      "selected_review_topic": null,
+      "default_wishlist_name": "Москва",
+      "latitude": 55.7812612542106,
+      "wishlist_count": 0,
+      "checkout": { "from": "", "until": "12:00" },
+      "address_trans": "Улица Новослободская 23",
+      "currencycode": "RUB",
+      "city_name_en": "Moscow",
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/317334695.jpg?k=e5797229a5de39ff3539984044b35a6135c926bd198fbf4c6c52f84a22a15d38&o=",
+      "review_nr": 3498,
+      "city": "Moscow",
+      "block_ids": ["28333508_120199877_2_2_0"],
+      "timezone": "Europe/Moscow",
+      "children_not_allowed": 0,
+      "review_score_word": "Очень хорошо",
+      "review_score": 8.4,
+      "price_is_final": 1,
+      "longitude": 37.5984790921211,
+      "ufi": -2960561,
+      "url": "https://www.booking.com/hotel/ru/novotel-moscow-centre.html",
+      "accommodation_type": 204,
+      "hotel_id": 283335,
+      "in_best_district": 0,
+      "country_trans": "Россия",
+      "badges": [],
+      "zip": "127055",
+      "districts": "1699,2134,12109",
+      "hotel_facilities": "20,117,163,253,222,305,110,466,64,80,96,456,424,22,439,3,28,47,46,4,425,485,7,452,445,462,219,423,488,440,420,448,487,53,23,451,461,158,91,449,459,496,127,436,108,180,81,11,107,51,109,458,468,450,460,457,43,467,55,5,48,418,455,111,465,422,463,44,204,453,172,8,6,486,454,25,143,2,16,464",
+      "composite_price_breakdown": {
+        "excluded_amount": { "currency": "RUB", "value": 0 },
+        "gross_amount_per_night": { "value": 4450.0, "currency": "RUB" },
+        "benefits": [],
+        "net_amount": { "currency": "RUB", "value": 3708.33333333333 },
+        "product_price_breakdowns": [
+          {
+            "gross_amount": { "value": 4450, "currency": "RUB" },
+            "all_inclusive_amount": { "value": 4450, "currency": "RUB" },
+            "items": [
+              {
+                "name": "НДС",
+                "base": { "percentage": 20.0, "kind": "percentage" },
+                "item_amount": { "currency": "RUB", "value": 741.666666666667 },
+                "inclusion_type": "included",
+                "kind": "charge",
+                "details": "НДС в размере 20 % "
+              }
+            ],
+            "included_taxes_and_charges_amount": {
+              "currency": "RUB",
+              "value": 741.666666666667
+            },
+            "net_amount": { "currency": "RUB", "value": 3708.33333333333 },
+            "gross_amount_per_night": { "currency": "RUB", "value": 4450.0 },
+            "excluded_amount": { "currency": "RUB", "value": 0 },
+            "benefits": []
+          }
+        ],
+        "items": [
+          {
+            "name": "НДС",
+            "base": { "kind": "percentage", "percentage": 20.0 },
+            "item_amount": { "value": 741.666666666667, "currency": "RUB" },
+            "inclusion_type": "included",
+            "details": "НДС в размере 20 % ",
+            "kind": "charge"
+          }
+        ],
+        "included_taxes_and_charges_amount": {
+          "currency": "RUB",
+          "value": 741.666666666667
+        },
+        "gross_amount": { "value": 4450, "currency": "RUB" },
+        "all_inclusive_amount": { "currency": "RUB", "value": 4450 }
+      },
+      "soldout": 0,
+      "distance": "3.40",
+      "is_no_prepayment_block": 1,
+      "unit_configuration_label": "<b>Номер в отеле</b>: 2 кровати",
+      "currency_code": "RUB",
+      "hotel_has_vb_boost": 0,
+      "city_in_trans": "в Москве",
+      "default_language": "en",
+      "id": "property_card_283335",
+      "is_genius_deal": 0,
+      "countrycode": "ru",
+      "is_smart_deal": 0,
+      "district_id": 1699,
+      "main_photo_id": 317334695,
+      "is_free_cancellable": 1,
+      "address": "Novoslobodskaya Street 23",
+      "accommodation_type_name": "Отель",
+      "price_breakdown": {
+        "sum_excluded_raw": "0.00",
+        "has_incalculable_charges": 0,
+        "has_tax_exceptions": 0,
+        "gross_price": "4450.00",
+        "has_fine_print_charges": 0,
+        "all_inclusive_price": 4450.0,
+        "currency": "RUB"
+      },
+      "preferred_plus": 0,
+      "distance_to_cc": "3.45",
+      "city_trans": "Москва",
+      "is_beach_front": 0,
+      "hotel_include_breakfast": 0,
+      "mobile_discount_percentage": 0,
+      "hotel_name_trans": "Новотель Москва Центр",
+      "review_recommendation": "",
+      "native_ads_tracking": "",
+      "genius_discount_percentage": 0,
+      "cc1": "ru",
+      "hotel_name": "Novotel Moscow Centre",
+      "min_total_price": 4450,
+      "class": 4.0,
+      "distances": [
+        {
+          "icon_set": null,
+          "text": "‎Тверской‬ • ‎3,4 км от центра‬",
+          "icon_name": "bui_geo_pin"
+        }
+      ],
+      "extended": 0,
+      "is_mobile_deal": 0,
+      "type": "property_card",
+      "checkin": { "from": "15:00", "until": "" },
+      "is_city_center": 0,
+      "district": "Тверской",
+      "cc_required": 1,
+      "cant_book": 0,
+      "native_ads_cpc": 0.0,
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/317334695.jpg?k=e5797229a5de39ff3539984044b35a6135c926bd198fbf4c6c52f84a22a15d38&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/317334695.jpg?k=e5797229a5de39ff3539984044b35a6135c926bd198fbf4c6c52f84a22a15d38&o="
+    },
+    {
+      "cc1": "ru",
+      "genius_discount_percentage": 0,
+      "hotel_name": "Holiday Inn Moscow Sokolniki, an IHG Hotel",
+      "min_total_price": 3825.6,
+      "distances": [
+        {
+          "text": "‎Сокольники‬ • ‎6 км от центра‬",
+          "icon_name": "bui_geo_pin",
+          "icon_set": null
+        },
+        { "icon_set": null, "text": "‎Чистота 9,3‬", "icon_name": "bui_clean" }
+      ],
+      "extended": 0,
+      "is_mobile_deal": 0,
+      "class": 4.0,
+      "cc_required": 1,
+      "cant_book": 0,
+      "native_ads_cpc": 0.0,
+      "type": "property_card",
+      "checkin": { "until": "00:00", "from": "14:00" },
+      "is_city_center": 0,
+      "district": "Сокольники",
+      "district_id": 5510,
+      "is_free_cancellable": 1,
+      "main_photo_id": 302229409,
+      "is_smart_deal": 0,
+      "address": "Ulitsa Rusakovskaya 24",
+      "accommodation_type_name": "Отель",
+      "distance_to_cc": "5.70",
+      "is_beach_front": 0,
+      "hotel_include_breakfast": 0,
+      "city_trans": "Москва",
+      "mobile_discount_percentage": 0,
+      "price_breakdown": {
+        "sum_excluded_raw": "0.00",
+        "has_incalculable_charges": 0,
+        "has_tax_exceptions": 0,
+        "gross_price": "3825.60",
+        "has_fine_print_charges": 1,
+        "all_inclusive_price": 3825.6,
+        "currency": "RUB"
+      },
+      "preferred_plus": 0,
+      "review_recommendation": "",
+      "native_ads_tracking": "",
+      "hotel_name_trans": "Холидей Инн Москва Сокольники",
+      "districts": "5510",
+      "hotel_facilities": "488,121,433,420,160,23,158,91,110,305,20,253,117,10,424,22,439,3,80,64,96,186,425,7,497,47,4,219,423,455,418,176,111,5,184,48,44,204,422,205,6,8,203,15,27,16,103,2,25,185,108,81,180,11,107,421,161,109,51,43,189,301,49,73",
+      "composite_price_breakdown": {
+        "benefits": [],
+        "excluded_amount": { "value": 0, "currency": "RUB" },
+        "gross_amount_per_night": { "currency": "RUB", "value": 3825.6 },
+        "product_price_breakdowns": [
+          {
+            "net_amount": { "currency": "RUB", "value": 3188 },
+            "benefits": [],
+            "excluded_amount": { "value": 0, "currency": "RUB" },
+            "gross_amount_per_night": { "currency": "RUB", "value": 3825.6 },
+            "all_inclusive_amount": { "currency": "RUB", "value": 3825.6 },
+            "gross_amount": { "currency": "RUB", "value": 3825.6 },
+            "included_taxes_and_charges_amount": {
+              "value": 637.6,
+              "currency": "RUB"
+            },
+            "items": [
+              {
+                "inclusion_type": "included",
+                "item_amount": { "currency": "RUB", "value": 637.6 },
+                "kind": "charge",
+                "details": "НДС в размере 20 % ",
+                "name": "НДС",
+                "base": { "kind": "percentage", "percentage": 20.0 }
+              }
+            ]
+          }
+        ],
+        "net_amount": { "currency": "RUB", "value": 3188 },
+        "included_taxes_and_charges_amount": {
+          "currency": "RUB",
+          "value": 637.6
+        },
+        "items": [
+          {
+            "item_amount": { "currency": "RUB", "value": 637.6 },
+            "inclusion_type": "included",
+            "kind": "charge",
+            "details": "НДС в размере 20 % ",
+            "name": "НДС",
+            "base": { "percentage": 20.0, "kind": "percentage" }
+          }
+        ],
+        "all_inclusive_amount": { "currency": "RUB", "value": 3825.6 },
+        "gross_amount": { "currency": "RUB", "value": 3825.6 }
+      },
+      "badges": [],
+      "zip": "107014",
+      "unit_configuration_label": "<b>Номер в отеле</b>: 2 кровати",
+      "soldout": 0,
+      "distance": "5.65",
+      "is_no_prepayment_block": 0,
+      "currency_code": "RUB",
+      "hotel_has_vb_boost": 0,
+      "city_in_trans": "в Москве",
+      "id": "property_card_46400",
+      "countrycode": "ru",
+      "is_genius_deal": 0,
+      "default_language": "en",
+      "native_ad_id": "",
+      "is_geo_rate": "",
+      "selected_review_topic": null,
+      "default_wishlist_name": "Москва",
+      "latitude": 55.7876923302071,
+      "preferred": 1,
+      "bwallet": { "hotel_eligibility": 0 },
+      "class_is_estimated": 0,
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/302229409.jpg?k=33a5e9b65e25cf1a28f849d789d366924d548c7f8d4b960840f5b41cee4a9aa4&o=",
+      "review_nr": 10241,
+      "block_ids": ["4640006_328285164_3_2_0"],
+      "city": "Moscow",
+      "timezone": "Europe/Moscow",
+      "wishlist_count": 0,
+      "checkout": { "from": "02:30", "until": "12:00" },
+      "address_trans": "Русаковская ул.24",
+      "currencycode": "RUB",
+      "city_name_en": "Moscow",
+      "children_not_allowed": 0,
+      "review_score_word": "Превосходно",
+      "hotel_id": 46400,
+      "accommodation_type": 204,
+      "in_best_district": 0,
+      "country_trans": "Россия",
+      "longitude": 37.6803267002106,
+      "review_score": 9.1,
+      "price_is_final": 0,
+      "ufi": -2960561,
+      "url": "https://www.booking.com/hotel/ru/holiday-inn-moscow-sokolniki.html",
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/302229409.jpg?k=33a5e9b65e25cf1a28f849d789d366924d548c7f8d4b960840f5b41cee4a9aa4&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/302229409.jpg?k=33a5e9b65e25cf1a28f849d789d366924d548c7f8d4b960840f5b41cee4a9aa4&o="
+    },
+    {
+      "is_smart_deal": 0,
+      "is_free_cancellable": 1,
+      "main_photo_id": 338220206,
+      "district_id": 1698,
+      "accommodation_type_name": "Отель",
+      "address": "Bld 10, Rogozhsky Val st.",
+      "preferred_plus": 0,
+      "price_breakdown": {
+        "all_inclusive_price": 4420.0,
+        "has_fine_print_charges": 0,
+        "gross_price": "4420.00",
+        "currency": "RUB",
+        "sum_excluded_raw": "0.00",
+        "has_incalculable_charges": 0,
+        "has_tax_exceptions": 0
+      },
+      "mobile_discount_percentage": 0,
+      "city_trans": "Москва",
+      "is_beach_front": 0,
+      "distance_to_cc": "3.90",
+      "hotel_name_trans": "Hampton By Hilton Москва Рогожский Вал",
+      "native_ads_tracking": "",
+      "review_recommendation": "",
+      "min_total_price": 4420,
+      "cc1": "ru",
+      "genius_discount_percentage": 0,
+      "hotel_name": "Hampton By Hilton Moscow Rogozhsky Val",
+      "class": 4.0,
+      "is_mobile_deal": 0,
+      "distances": [
+        {
+          "icon_name": "bui_geo_pin",
+          "text": "‎Таганский‬ • ‎3,9 км от центра‬",
+          "icon_set": null
+        },
+        { "icon_name": "bui_clean", "text": "‎Чистота 9,4‬", "icon_set": null }
+      ],
+      "extended": 0,
+      "district": "Таганский",
+      "is_city_center": 0,
+      "checkin": { "from": "15:00", "until": "" },
+      "type": "property_card",
+      "cant_book": 0,
+      "native_ads_cpc": 0.0,
+      "cc_required": 1,
+      "class_is_estimated": 0,
+      "bwallet": { "hotel_eligibility": 0 },
+      "preferred": 1,
+      "default_wishlist_name": "Москва",
+      "latitude": 55.741238,
+      "selected_review_topic": null,
+      "is_geo_rate": "",
+      "native_ad_id": "",
+      "city_name_en": "Moscow",
+      "currencycode": "RUB",
+      "address_trans": "Рогожский Вал, д.10",
+      "checkout": { "from": "", "until": "12:00" },
+      "wishlist_count": 0,
+      "timezone": "Europe/Moscow",
+      "city": "Moscow",
+      "review_nr": 1126,
+      "block_ids": ["746471707_330696754_1_1_0"],
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/338220206.jpg?k=99aba3df7a58a346283c318311ba9b627d8b5297eabef99921021d1cf0434b30&o=",
+      "review_score_word": "Превосходно",
+      "children_not_allowed": 0,
+      "ufi": -2960561,
+      "url": "https://www.booking.com/hotel/ru/hampton-by-hilton-moscow-rogozhsky-val.html",
+      "review_score": 9.2,
+      "longitude": 37.67405,
+      "price_is_final": 1,
+      "country_trans": "Россия",
+      "in_best_district": 0,
+      "accommodation_type": 204,
+      "hotel_id": 7464717,
+      "zip": "109147",
+      "badges": [],
+      "composite_price_breakdown": {
+        "benefits": [],
+        "excluded_amount": { "currency": "RUB", "value": 0 },
+        "gross_amount_per_night": { "value": 4420.0, "currency": "RUB" },
+        "product_price_breakdowns": [
+          {
+            "all_inclusive_amount": { "value": 4420, "currency": "RUB" },
+            "gross_amount": { "value": 4420, "currency": "RUB" },
+            "included_taxes_and_charges_amount": {
+              "value": 736.666666666667,
+              "currency": "RUB"
+            },
+            "items": [
+              {
+                "kind": "charge",
+                "details": "НДС в размере 20 % ",
+                "item_amount": { "value": 736.666666666667, "currency": "RUB" },
+                "inclusion_type": "included",
+                "base": { "kind": "percentage", "percentage": 20.0 },
+                "name": "НДС"
+              }
+            ],
+            "net_amount": { "currency": "RUB", "value": 3683.33333333333 },
+            "benefits": [],
+            "gross_amount_per_night": { "value": 4420.0, "currency": "RUB" },
+            "excluded_amount": { "value": 0, "currency": "RUB" }
+          }
+        ],
+        "net_amount": { "value": 3683.33333333333, "currency": "RUB" },
+        "included_taxes_and_charges_amount": {
+          "currency": "RUB",
+          "value": 736.666666666667
+        },
+        "items": [
+          {
+            "inclusion_type": "included",
+            "item_amount": { "value": 736.666666666667, "currency": "RUB" },
+            "details": "НДС в размере 20 % ",
+            "kind": "charge",
+            "name": "НДС",
+            "base": { "percentage": 20.0, "kind": "percentage" }
+          }
+        ],
+        "all_inclusive_amount": { "currency": "RUB", "value": 4420 },
+        "gross_amount": { "value": 4420, "currency": "RUB" }
+      },
+      "hotel_facilities": "305,253,444,117,163,20,22,3,28,439,424,456,466,96,7,425,443,47,423,462,445,452,440,493,488,495,448,435,420,494,177,489,23,449,461,91,158,451,81,436,108,459,107,11,468,458,109,51,492,457,49,450,176,418,455,48,5,453,204,44,422,6,8,491,16,454",
+      "districts": "1698,2134,12109",
+      "distance": "3.86",
+      "is_no_prepayment_block": 1,
+      "soldout": 0,
+      "ribbon_text": "Завтрак включен",
+      "unit_configuration_label": "<b>Номер в отеле</b>: 2 кровати",
+      "city_in_trans": "в Москве",
+      "hotel_has_vb_boost": 0,
+      "currency_code": "RUB",
+      "default_language": "ru",
+      "is_genius_deal": 0,
+      "countrycode": "ru",
+      "id": "property_card_7464717",
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/338220206.jpg?k=99aba3df7a58a346283c318311ba9b627d8b5297eabef99921021d1cf0434b30&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/338220206.jpg?k=99aba3df7a58a346283c318311ba9b627d8b5297eabef99921021d1cf0434b30&o="
+    },
+    {
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/285638863.jpg?k=a3c0aefb360f88c37e8cb9d554d171f31a2352a97e2281f434b45b4aa73b45f7&o=",
+      "review_nr": 2360,
+      "city": "Moscow",
+      "block_ids": ["17925109_328284612_2_2_0"],
+      "timezone": "Europe/Moscow",
+      "wishlist_count": 0,
+      "checkout": { "from": "00:00", "until": "12:00" },
+      "address_trans": "Улица Симоновский Вал, 2",
+      "currencycode": "RUB",
+      "city_name_en": "Moscow",
+      "native_ad_id": "",
+      "selected_review_topic": null,
+      "is_geo_rate": "",
+      "latitude": 55.72941798,
+      "default_wishlist_name": "Москва",
+      "bwallet": { "hotel_eligibility": 0 },
+      "preferred": 1,
+      "class_is_estimated": 0,
+      "accommodation_type": 204,
+      "hotel_id": 179251,
+      "country_trans": "Россия",
+      "in_best_district": 0,
+      "review_score": 8.5,
+      "longitude": 37.66075194,
+      "price_is_final": 0,
+      "url": "https://www.booking.com/hotel/ru/holiday-inn-moscow-simonovsky.html",
+      "ufi": -2960561,
+      "children_not_allowed": 0,
+      "review_score_word": "Очень хорошо",
+      "unit_configuration_label": "<b>Номер в отеле</b>: 2 кровати",
+      "soldout": 0,
+      "is_no_prepayment_block": 0,
+      "distance": "3.80",
+      "districts": "1698,2134,12109",
+      "hotel_facilities": "488,181,136,487,179,23,160,170,451,461,158,91,449,20,253,163,117,222,110,305,96,411,80,424,439,3,22,47,4,7,485,425,497,206,445,462,423,5,184,124,48,455,418,78,176,111,422,44,453,204,6,205,8,454,15,16,464,25,2,135,108,81,421,107,11,133,109,51,458,161,468,450,73,457,43,467",
+      "composite_price_breakdown": {
+        "included_taxes_and_charges_amount": {
+          "currency": "RUB",
+          "value": 720
+        },
+        "items": [
+          {
+            "base": { "kind": "percentage", "percentage": 20.0 },
+            "name": "НДС",
+            "details": "НДС в размере 20 % ",
+            "kind": "charge",
+            "item_amount": { "value": 720, "currency": "RUB" },
+            "inclusion_type": "included"
+          }
+        ],
+        "all_inclusive_amount": { "currency": "RUB", "value": 4320 },
+        "gross_amount": { "currency": "RUB", "value": 4320 },
+        "benefits": [],
+        "gross_amount_per_night": { "value": 4320.0, "currency": "RUB" },
+        "excluded_amount": { "currency": "RUB", "value": 0 },
+        "product_price_breakdowns": [
+          {
+            "net_amount": { "currency": "RUB", "value": 3600 },
+            "benefits": [],
+            "excluded_amount": { "currency": "RUB", "value": 0 },
+            "gross_amount_per_night": { "currency": "RUB", "value": 4320.0 },
+            "all_inclusive_amount": { "value": 4320, "currency": "RUB" },
+            "gross_amount": { "value": 4320, "currency": "RUB" },
+            "included_taxes_and_charges_amount": {
+              "value": 720,
+              "currency": "RUB"
+            },
+            "items": [
+              {
+                "item_amount": { "value": 720, "currency": "RUB" },
+                "inclusion_type": "included",
+                "details": "НДС в размере 20 % ",
+                "kind": "charge",
+                "name": "НДС",
+                "base": { "percentage": 20.0, "kind": "percentage" }
+              }
+            ]
+          }
+        ],
+        "net_amount": { "currency": "RUB", "value": 3600 }
+      },
+      "badges": [],
+      "zip": "115088",
+      "id": "property_card_179251",
+      "is_genius_deal": 0,
+      "countrycode": "ru",
+      "default_language": "en",
+      "currency_code": "RUB",
+      "hotel_has_vb_boost": 0,
+      "city_in_trans": "в Москве",
+      "address": "Simonovsky Val Street 2",
+      "accommodation_type_name": "Отель",
+      "district_id": 1698,
+      "is_free_cancellable": 1,
+      "main_photo_id": 285638863,
+      "is_smart_deal": 0,
+      "review_recommendation": "",
+      "native_ads_tracking": "",
+      "hotel_name_trans": "Холидей Инн Москва Таганский",
+      "distance_to_cc": "3.80",
+      "is_beach_front": 0,
+      "city_trans": "Москва",
+      "hotel_include_breakfast": 0,
+      "mobile_discount_percentage": 0,
+      "price_breakdown": {
+        "sum_excluded_raw": "0.00",
+        "has_incalculable_charges": 0,
+        "has_tax_exceptions": 0,
+        "all_inclusive_price": 4320.0,
+        "has_fine_print_charges": 1,
+        "gross_price": "4320.00",
+        "currency": "RUB"
+      },
+      "preferred_plus": 0,
+      "cc1": "ru",
+      "hotel_name": "Holiday Inn Moscow Tagansky, an IHG Hotel",
+      "genius_discount_percentage": 0,
+      "min_total_price": 4320,
+      "cc_required": 1,
+      "cant_book": 0,
+      "native_ads_cpc": 0.0,
+      "type": "property_card",
+      "checkin": { "from": "14:00", "until": "00:00" },
+      "is_city_center": 0,
+      "district": "Таганский",
+      "distances": [
+        {
+          "icon_name": "bui_geo_pin",
+          "text": "‎Таганский‬ • ‎3,8 км от центра‬",
+          "icon_set": null
+        }
+      ],
+      "extended": 0,
+      "is_mobile_deal": 0,
+      "class": 4.0,
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/285638863.jpg?k=a3c0aefb360f88c37e8cb9d554d171f31a2352a97e2281f434b45b4aa73b45f7&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/285638863.jpg?k=a3c0aefb360f88c37e8cb9d554d171f31a2352a97e2281f434b45b4aa73b45f7&o="
+    },
+    {
+      "country_trans": "Россия",
+      "in_best_district": 0,
+      "accommodation_type": 204,
+      "hotel_id": 179258,
+      "ufi": -2960561,
+      "url": "https://www.booking.com/hotel/ru/holiday-inn-moscow-lesnaya.html",
+      "longitude": 37.5893330573308,
+      "review_score": 8.6,
+      "price_is_final": 0,
+      "review_score_word": "Потрясающе",
+      "children_not_allowed": 0,
+      "timezone": "Europe/Moscow",
+      "review_nr": 4574,
+      "block_ids": ["17925812_328284607_3_2_0"],
+      "city": "Moscow",
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/262288324.jpg?k=6d774db064ca42f1661851e7bb3889ea3927753a20eb4135890a8be1e97a44e1&o=",
+      "city_name_en": "Moscow",
+      "currencycode": "RUB",
+      "address_trans": "Лесная ул.15",
+      "checkout": { "from": "11:00", "until": "12:00" },
+      "wishlist_count": 0,
+      "default_wishlist_name": "Москва",
+      "latitude": 55.7793104053534,
+      "selected_review_topic": null,
+      "is_geo_rate": "",
+      "native_ad_id": "",
+      "class_is_estimated": 0,
+      "bwallet": { "hotel_eligibility": 0 },
+      "preferred": 1,
+      "countrycode": "ru",
+      "is_genius_deal": 0,
+      "id": "property_card_179258",
+      "default_language": "en",
+      "city_in_trans": "в Москве",
+      "hotel_has_vb_boost": 0,
+      "currency_code": "RUB",
+      "unit_configuration_label": "<b>Номер в отеле</b>: 2 кровати",
+      "distance": "3.43",
+      "is_no_prepayment_block": 0,
+      "soldout": 0,
+      "composite_price_breakdown": {
+        "items": [
+          {
+            "name": "НДС",
+            "base": { "percentage": 20.0, "kind": "percentage" },
+            "inclusion_type": "included",
+            "item_amount": { "currency": "RUB", "value": 900 },
+            "details": "НДС в размере 20 % ",
+            "kind": "charge"
+          }
+        ],
+        "included_taxes_and_charges_amount": {
+          "value": 900,
+          "currency": "RUB"
+        },
+        "gross_amount": { "value": 5400, "currency": "RUB" },
+        "all_inclusive_amount": { "value": 5400, "currency": "RUB" },
+        "excluded_amount": { "value": 0, "currency": "RUB" },
+        "gross_amount_per_night": { "currency": "RUB", "value": 5400.0 },
+        "benefits": [],
+        "net_amount": { "value": 4500, "currency": "RUB" },
+        "product_price_breakdowns": [
+          {
+            "excluded_amount": { "currency": "RUB", "value": 0 },
+            "gross_amount_per_night": { "value": 5400.0, "currency": "RUB" },
+            "benefits": [],
+            "net_amount": { "currency": "RUB", "value": 4500 },
+            "items": [
+              {
+                "base": { "kind": "percentage", "percentage": 20.0 },
+                "name": "НДС",
+                "details": "НДС в размере 20 % ",
+                "kind": "charge",
+                "item_amount": { "currency": "RUB", "value": 900 },
+                "inclusion_type": "included"
+              }
+            ],
+            "included_taxes_and_charges_amount": {
+              "value": 900,
+              "currency": "RUB"
+            },
+            "gross_amount": { "currency": "RUB", "value": 5400 },
+            "all_inclusive_amount": { "currency": "RUB", "value": 5400 }
+          }
+        ]
+      },
+      "hotel_facilities": "44,204,453,422,455,418,78,465,111,176,5,184,48,124,454,203,143,2,17,25,16,8,205,6,11,107,133,421,140,108,135,180,81,459,127,43,457,467,129,450,460,458,161,468,51,109,487,53,420,488,400,449,451,461,91,158,177,23,424,439,3,28,22,466,64,80,96,456,110,305,20,163,117,253,304,423,452,206,462,497,485,425,7,47,437,4",
+      "districts": "1699,2134,12109",
+      "zip": "125047",
+      "badges": [],
+      "native_ads_tracking": "",
+      "review_recommendation": "",
+      "hotel_name_trans": "Холидей Инн Москва Лесная",
+      "mobile_discount_percentage": 0,
+      "is_beach_front": 0,
+      "hotel_include_breakfast": 0,
+      "city_trans": "Москва",
+      "distance_to_cc": "3.45",
+      "preferred_plus": 0,
+      "price_breakdown": {
+        "has_tax_exceptions": 0,
+        "has_incalculable_charges": 0,
+        "sum_excluded_raw": "0.00",
+        "currency": "RUB",
+        "gross_price": "5400.00",
+        "all_inclusive_price": 5400.0,
+        "has_fine_print_charges": 1
+      },
+      "accommodation_type_name": "Отель",
+      "address": "Ulitsa Lesnaya 15",
+      "main_photo_id": 262288324,
+      "is_free_cancellable": 1,
+      "district_id": 1699,
+      "is_smart_deal": 0,
+      "cant_book": 0,
+      "native_ads_cpc": 0.0,
+      "cc_required": 1,
+      "district": "Тверской",
+      "is_city_center": 0,
+      "checkin": { "from": "14:00", "until": "00:00" },
+      "type": "property_card",
+      "is_mobile_deal": 0,
+      "extended": 0,
+      "distances": [
+        {
+          "icon_set": null,
+          "icon_name": "bui_geo_pin",
+          "text": "‎Тверской‬ • ‎3,4 км от центра‬"
+        }
+      ],
+      "class": 4.0,
+      "min_total_price": 5400,
+      "hotel_name": "Holiday Inn Moscow Lesnaya, an IHG Hotel",
+      "cc1": "ru",
+      "genius_discount_percentage": 0,
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/262288324.jpg?k=6d774db064ca42f1661851e7bb3889ea3927753a20eb4135890a8be1e97a44e1&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/262288324.jpg?k=6d774db064ca42f1661851e7bb3889ea3927753a20eb4135890a8be1e97a44e1&o="
+    },
+    {
+      "cc_required": 1,
+      "cant_book": 0,
+      "native_ads_cpc": 0.0,
+      "type": "property_card",
+      "checkin": { "until": "", "from": "14:00" },
+      "is_city_center": 0,
+      "district": "Беговой",
+      "distances": [
+        {
+          "text": "‎Беговой‬ • ‎4,1 км от центра‬",
+          "icon_name": "bui_geo_pin",
+          "icon_set": null
+        }
+      ],
+      "extended": 0,
+      "is_mobile_deal": 1,
+      "class": 4.0,
+      "cc1": "ru",
+      "genius_discount_percentage": 0,
+      "hotel_name": "Radisson Blu Belorusskaya",
+      "min_total_price": 5400,
+      "review_recommendation": "",
+      "native_ads_tracking": "",
+      "hotel_name_trans": "Radisson Blu Белорусская",
+      "distance_to_cc": "4.15",
+      "is_beach_front": 0,
+      "city_trans": "Москва",
+      "hotel_include_breakfast": 0,
+      "mobile_discount_percentage": 600.0,
+      "price_breakdown": {
+        "sum_excluded_raw": "0.00",
+        "has_incalculable_charges": 0,
+        "has_tax_exceptions": 0,
+        "gross_price": "5400.00",
+        "all_inclusive_price": 5400.0,
+        "has_fine_print_charges": 1,
+        "currency": "RUB"
+      },
+      "preferred_plus": 0,
+      "address": "3rd Street of Yamskogo Polya 26A",
+      "accommodation_type_name": "Отель",
+      "district_id": 5504,
+      "main_photo_id": 232822497,
+      "is_free_cancellable": 1,
+      "is_smart_deal": 0,
+      "id": "property_card_305112",
+      "is_genius_deal": 0,
+      "countrycode": "ru",
+      "default_language": "en",
+      "currency_code": "RUB",
+      "hotel_has_vb_boost": 0,
+      "city_in_trans": "в Москве",
+      "unit_configuration_label": "<b>Номер в отеле</b>: 1 кровать",
+      "soldout": 0,
+      "is_no_prepayment_block": 1,
+      "distance": "4.10",
+      "districts": "5504,2134",
+      "hotel_facilities": "159,440,493,461,451,449,489,456,466,28,3,484,253,173,444,117,10,110,305,445,206,423,304,47,485,186,7,453,44,463,48,418,16,203,15,188,421,107,11,127,496,436,73,129,134,109,468,458,420,495,488,91,158,257,23,170,96,80,22,424,163,20,210,462,452,219,4,490,425,497,422,204,5,111,455,185,486,464,17,25,2,454,205,6,8,140,133,187,459,81,108,49,450,189,467,457,43,209,51",
+      "composite_price_breakdown": {
+        "all_inclusive_amount": { "value": 5400, "currency": "RUB" },
+        "gross_amount": { "currency": "RUB", "value": 5400 },
+        "discounted_amount": { "value": 600, "currency": "RUB" },
+        "included_taxes_and_charges_amount": {
+          "value": 900,
+          "currency": "RUB"
+        },
+        "product_price_breakdowns": [
+          {
+            "net_amount": { "currency": "RUB", "value": 4500 },
+            "benefits": [
+              {
+                "name": "Цена в мобильных устройствах",
+                "kind": "badge",
+                "identifier": "mobile-rate",
+                "details": "Вы получаете более низкую цену, потому что здесь действует скидка при бронировании с мобильного устройства.",
+                "icon": null,
+                "badge_variant": "constructive"
+              }
+            ],
+            "strikethrough_amount": { "value": 6000, "currency": "RUB" },
+            "excluded_amount": { "currency": "RUB", "value": 0 },
+            "gross_amount_per_night": { "currency": "RUB", "value": 5400.0 },
+            "all_inclusive_amount": { "currency": "RUB", "value": 5400 },
+            "strikethrough_amount_per_night": {
+              "currency": "RUB",
+              "value": 6000.0
+            },
+            "discounted_amount": { "value": 600, "currency": "RUB" },
+            "gross_amount": { "currency": "RUB", "value": 5400 },
+            "included_taxes_and_charges_amount": {
+              "value": 900,
+              "currency": "RUB"
+            },
+            "items": [
+              {
+                "inclusion_type": "included",
+                "item_amount": { "currency": "RUB", "value": 900 },
+                "kind": "charge",
+                "details": "НДС в размере 20 % ",
+                "name": "НДС",
+                "base": { "kind": "percentage", "percentage": 20.0 }
+              },
+              {
+                "item_amount": { "value": 600, "currency": "RUB" },
+                "details": "Вы получаете более низкую цену, потому что используете мобильную версию сайта.",
+                "kind": "discount",
+                "identifier": "mobile-discount",
+                "name": "Цена в мобильных устройствах",
+                "base": { "kind": "rate" }
+              }
+            ]
+          }
+        ],
+        "net_amount": { "value": 4500, "currency": "RUB" },
+        "gross_amount_per_night": { "value": 5400.0, "currency": "RUB" },
+        "excluded_amount": { "value": 0, "currency": "RUB" },
+        "strikethrough_amount_per_night": {
+          "currency": "RUB",
+          "value": 6000.0
+        },
+        "items": [
+          {
+            "base": { "percentage": 20.0, "kind": "percentage" },
+            "name": "НДС",
+            "kind": "charge",
+            "details": "НДС в размере 20 % ",
+            "item_amount": { "value": 900, "currency": "RUB" },
+            "inclusion_type": "included"
+          },
+          {
+            "item_amount": { "value": 600, "currency": "RUB" },
+            "details": "Вы получаете более низкую цену, потому что используете мобильную версию сайта.",
+            "kind": "discount",
+            "identifier": "mobile-discount",
+            "name": "Цена в мобильных устройствах",
+            "base": { "kind": "rate" }
+          }
+        ],
+        "benefits": [
+          {
+            "identifier": "mobile-rate",
+            "icon": null,
+            "badge_variant": "constructive",
+            "details": "Вы получаете более низкую цену, потому что здесь действует скидка при бронировании с мобильного устройства.",
+            "name": "Цена в мобильных устройствах",
+            "kind": "badge"
+          }
+        ],
+        "strikethrough_amount": { "value": 6000, "currency": "RUB" }
+      },
+      "badges": [
+        {
+          "id": "mobile_price",
+          "text": "Цена только для моб. устройств",
+          "badge_variant": "constructive"
+        }
+      ],
+      "zip": "125040",
+      "hotel_id": 305112,
+      "accommodation_type": 204,
+      "country_trans": "Россия",
+      "in_best_district": 0,
+      "longitude": 37.5793552397954,
+      "review_score": 8.6,
+      "price_is_final": 0,
+      "ufi": -2960561,
+      "url": "https://www.booking.com/hotel/ru/radisson-blu-belorusskaya.html",
+      "children_not_allowed": 0,
+      "review_score_word": "Потрясающе",
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/232822497.jpg?k=3b240dc16d5e6c6d68bcac9f68b4ffc782c1447c520bf2ff666868f8a185e746&o=",
+      "city": "Moscow",
+      "review_nr": 7314,
+      "block_ids": ["30511202_242424611_2_2_0"],
+      "timezone": "Europe/Moscow",
+      "wishlist_count": 0,
+      "checkout": { "until": "12:00", "from": "" },
+      "address_trans": "3-я улица Ямского поля 26А",
+      "currencycode": "RUB",
+      "city_name_en": "Moscow",
+      "native_ad_id": "",
+      "is_geo_rate": "",
+      "selected_review_topic": null,
+      "latitude": 55.7829485591981,
+      "default_wishlist_name": "Москва",
+      "preferred": 1,
+      "bwallet": { "hotel_eligibility": 0 },
+      "class_is_estimated": 0,
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/232822497.jpg?k=3b240dc16d5e6c6d68bcac9f68b4ffc782c1447c520bf2ff666868f8a185e746&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/232822497.jpg?k=3b240dc16d5e6c6d68bcac9f68b4ffc782c1447c520bf2ff666868f8a185e746&o="
+    },
+    {
+      "review_score": 8.1,
+      "longitude": 37.5847555696964,
+      "price_is_final": 1,
+      "ufi": -2960561,
+      "url": "https://www.booking.com/hotel/ru/gallery-grand.html",
+      "hotel_id": 414415,
+      "accommodation_type": 204,
+      "in_best_district": 0,
+      "country_trans": "Россия",
+      "children_not_allowed": 0,
+      "review_score_word": "Очень хорошо",
+      "checkout": { "from": "", "until": "12:00" },
+      "wishlist_count": 0,
+      "city_name_en": "Moscow",
+      "address_trans": "Улица Бутырский Вал 5",
+      "currencycode": "RUB",
+      "city": "Moscow",
+      "review_nr": 6296,
+      "block_ids": ["41441509_203950083_0_41_0"],
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/197890842.jpg?k=aa02bcc39a4d776fade908e093d70d36a3b5719d810fa946c18c93cf85265765&o=",
+      "timezone": "Europe/Moscow",
+      "preferred": 1,
+      "bwallet": { "hotel_eligibility": 0 },
+      "class_is_estimated": 0,
+      "is_geo_rate": "",
+      "selected_review_topic": null,
+      "native_ad_id": "",
+      "default_wishlist_name": "Москва",
+      "latitude": 55.7789564263964,
+      "default_language": "en",
+      "id": "property_card_414415",
+      "is_genius_deal": 0,
+      "countrycode": "ru",
+      "hotel_has_vb_boost": 0,
+      "currency_code": "RUB",
+      "city_in_trans": "в Москве",
+      "soldout": 0,
+      "ribbon_text": "Завтрак включен",
+      "distance": "3.55",
+      "is_no_prepayment_block": 1,
+      "unit_configuration_label": "<b>Номер в отеле</b>: 1 кровать",
+      "zip": "125047",
+      "badges": [],
+      "districts": "1699,2134,12109",
+      "composite_price_breakdown": {
+        "items": [
+          {
+            "item_amount": { "value": 616.666666666667, "currency": "RUB" },
+            "inclusion_type": "included",
+            "kind": "charge",
+            "details": "НДС в размере 20 % ",
+            "name": "НДС",
+            "base": { "kind": "percentage", "percentage": 20.0 }
+          }
+        ],
+        "included_taxes_and_charges_amount": {
+          "currency": "RUB",
+          "value": 616.666666666667
+        },
+        "gross_amount": { "currency": "RUB", "value": 3700 },
+        "all_inclusive_amount": { "currency": "RUB", "value": 3700 },
+        "excluded_amount": { "currency": "RUB", "value": 0 },
+        "gross_amount_per_night": { "currency": "RUB", "value": 3700.0 },
+        "benefits": [],
+        "product_price_breakdowns": [
+          {
+            "gross_amount_per_night": { "currency": "RUB", "value": 3700.0 },
+            "excluded_amount": { "value": 0, "currency": "RUB" },
+            "benefits": [],
+            "net_amount": { "value": 3083.33333333333, "currency": "RUB" },
+            "items": [
+              {
+                "item_amount": { "currency": "RUB", "value": 616.666666666667 },
+                "inclusion_type": "included",
+                "kind": "charge",
+                "details": "НДС в размере 20 % ",
+                "name": "НДС",
+                "base": { "kind": "percentage", "percentage": 20.0 }
+              }
+            ],
+            "included_taxes_and_charges_amount": {
+              "currency": "RUB",
+              "value": 616.666666666667
+            },
+            "gross_amount": { "value": 3700, "currency": "RUB" },
+            "all_inclusive_amount": { "currency": "RUB", "value": 3700 }
+          }
+        ],
+        "net_amount": { "value": 3083.33333333333, "currency": "RUB" }
+      },
+      "hotel_facilities": "453,204,44,422,465,455,418,124,48,5,16,464,27,454,486,8,145,446,419,491,107,421,81,436,108,459,467,457,460,49,73,450,468,458,109,51,492,487,495,448,420,440,71,488,449,158,461,91,451,23,3,22,28,424,96,466,80,305,444,163,423,219,462,445,452,485,425,502,47,443",
+      "hotel_name_trans": "Гранд Отель Белорусская ",
+      "review_recommendation": "",
+      "native_ads_tracking": "",
+      "price_breakdown": {
+        "gross_price": "3700.00",
+        "all_inclusive_price": 3700.0,
+        "has_fine_print_charges": 0,
+        "currency": "RUB",
+        "sum_excluded_raw": "0.00",
+        "has_incalculable_charges": 0,
+        "has_tax_exceptions": 0
+      },
+      "preferred_plus": 0,
+      "is_beach_front": 0,
+      "city_trans": "Москва",
+      "distance_to_cc": "3.55",
+      "mobile_discount_percentage": 0,
+      "accommodation_type_name": "Отель",
+      "address": "Butyrski Val Ulitsa 5",
+      "is_smart_deal": 0,
+      "district_id": 1699,
+      "main_photo_id": 197890842,
+      "is_free_cancellable": 1,
+      "checkin": { "until": "", "from": "14:00" },
+      "type": "property_card",
+      "district": "Тверской",
+      "is_city_center": 0,
+      "cc_required": 1,
+      "cant_book": 0,
+      "native_ads_cpc": 0.0,
+      "class": 4.0,
+      "extended": 0,
+      "distances": [
+        {
+          "icon_set": null,
+          "text": "‎Тверской‬ • ‎3,5 км от центра‬",
+          "icon_name": "bui_geo_pin"
+        }
+      ],
+      "is_mobile_deal": 0,
+      "genius_discount_percentage": 0,
+      "cc1": "ru",
+      "hotel_name": "Grand Hotel Belorusskaya",
+      "min_total_price": 3700,
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/197890842.jpg?k=aa02bcc39a4d776fade908e093d70d36a3b5719d810fa946c18c93cf85265765&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/197890842.jpg?k=aa02bcc39a4d776fade908e093d70d36a3b5719d810fa946c18c93cf85265765&o="
+    },
+    {
+      "city_in_trans": "в Москве",
+      "currency_code": "RUB",
+      "hotel_has_vb_boost": 0,
+      "default_language": "ru",
+      "is_genius_deal": 0,
+      "countrycode": "ru",
+      "id": "property_card_2628934",
+      "badges": [
+        {
+          "id": "mobile_price",
+          "text": "Цена только для моб. устройств",
+          "badge_variant": "constructive"
+        }
+      ],
+      "zip": "125284",
+      "hotel_facilities": "418,455,124,5,204,453,44,422,8,6,205,419,16,464,81,108,127,459,133,107,421,468,109,73,49,488,159,420,23,449,461,158,91,305,163,3,22,424,96,80,64,425,437,47,423,219,462",
+      "composite_price_breakdown": {
+        "all_inclusive_amount": { "value": 3645, "currency": "RUB" },
+        "gross_amount": { "value": 3645, "currency": "RUB" },
+        "discounted_amount": { "value": 855, "currency": "RUB" },
+        "included_taxes_and_charges_amount": { "currency": "RUB", "value": 0 },
+        "product_price_breakdowns": [
+          {
+            "included_taxes_and_charges_amount": {
+              "value": 0,
+              "currency": "RUB"
+            },
+            "items": [
+              {
+                "base": { "base_amount": 0.0, "kind": "not_applicable" },
+                "name": "НДС",
+                "kind": "charge",
+                "details": "НДС",
+                "inclusion_type": "excluded",
+                "item_amount": { "currency": "RUB", "value": 0 }
+              },
+              {
+                "item_amount": { "currency": "RUB", "value": 450 },
+                "details": "Вы получаете более низкую цену, потому что вариант размещения предлагает скидку.",
+                "kind": "discount",
+                "identifier": "early-booker-deal",
+                "name": "Раннее предложение",
+                "base": { "kind": "rate" }
+              },
+              {
+                "name": "Цена в мобильных устройствах",
+                "base": { "kind": "rate" },
+                "identifier": "mobile-discount",
+                "item_amount": { "value": 405, "currency": "RUB" },
+                "details": "Вы получаете более низкую цену, потому что используете мобильную версию сайта.",
+                "kind": "discount"
+              }
+            ],
+            "strikethrough_amount_per_night": {
+              "value": 4500.0,
+              "currency": "RUB"
+            },
+            "all_inclusive_amount": { "currency": "RUB", "value": 3645 },
+            "discounted_amount": { "currency": "RUB", "value": 855 },
+            "gross_amount": { "value": 3645, "currency": "RUB" },
+            "strikethrough_amount": { "value": 4500, "currency": "RUB" },
+            "benefits": [
+              {
+                "badge_variant": "constructive",
+                "icon": null,
+                "details": "Вы получаете более низкую цену, потому что здесь действует скидка при бронировании с мобильного устройства.",
+                "identifier": "mobile-rate",
+                "kind": "badge",
+                "name": "Цена в мобильных устройствах"
+              }
+            ],
+            "excluded_amount": { "value": 0, "currency": "RUB" },
+            "gross_amount_per_night": { "currency": "RUB", "value": 3645.0 },
+            "net_amount": { "value": 3645, "currency": "RUB" }
+          }
+        ],
+        "net_amount": { "value": 3645, "currency": "RUB" },
+        "gross_amount_per_night": { "value": 3645.0, "currency": "RUB" },
+        "excluded_amount": { "currency": "RUB", "value": 0 },
+        "strikethrough_amount_per_night": {
+          "value": 4500.0,
+          "currency": "RUB"
+        },
+        "items": [
+          {
+            "base": { "base_amount": 0.0, "kind": "not_applicable" },
+            "name": "НДС",
+            "kind": "charge",
+            "details": "НДС",
+            "inclusion_type": "excluded",
+            "item_amount": { "value": 0, "currency": "RUB" }
+          },
+          {
+            "name": "Раннее предложение",
+            "base": { "kind": "rate" },
+            "identifier": "early-booker-deal",
+            "item_amount": { "currency": "RUB", "value": 450 },
+            "kind": "discount",
+            "details": "Вы получаете более низкую цену, потому что вариант размещения предлагает скидку."
+          },
+          {
+            "base": { "kind": "rate" },
+            "name": "Цена в мобильных устройствах",
+            "identifier": "mobile-discount",
+            "kind": "discount",
+            "details": "Вы получаете более низкую цену, потому что используете мобильную версию сайта.",
+            "item_amount": { "value": 405, "currency": "RUB" }
+          }
+        ],
+        "strikethrough_amount": { "currency": "RUB", "value": 4500 },
+        "benefits": [
+          {
+            "kind": "badge",
+            "name": "Цена в мобильных устройствах",
+            "icon": null,
+            "badge_variant": "constructive",
+            "details": "Вы получаете более низкую цену, потому что здесь действует скидка при бронировании с мобильного устройства.",
+            "identifier": "mobile-rate"
+          }
+        ]
+      },
+      "districts": "5504",
+      "is_no_prepayment_block": 1,
+      "distance": "4.96",
+      "ribbon_text": "Завтрак включен",
+      "soldout": 0,
+      "unit_configuration_label": "<b>Номер в отеле</b>: 1 кровать",
+      "review_score_word": "Очень хорошо",
+      "children_not_allowed": 0,
+      "url": "https://www.booking.com/hotel/ru/impieriia-moskva.html",
+      "ufi": -2960561,
+      "review_score": 8.1,
+      "price_is_final": 0,
+      "longitude": 37.5587469,
+      "in_best_district": 0,
+      "country_trans": "Россия",
+      "accommodation_type": 204,
+      "hotel_id": 2628934,
+      "class_is_estimated": 0,
+      "bwallet": { "hotel_eligibility": 0 },
+      "preferred": 1,
+      "latitude": 55.783249,
+      "default_wishlist_name": "Москва",
+      "native_ad_id": "",
+      "is_geo_rate": "",
+      "selected_review_topic": null,
+      "address_trans": "1-й Боткинский проезд, 6",
+      "currencycode": "RUB",
+      "city_name_en": "Moscow",
+      "wishlist_count": 0,
+      "checkout": { "from": "", "until": "12:00" },
+      "timezone": "Europe/Moscow",
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/123943792.jpg?k=c782b647f8e4b09082665954aeeb65f5ac14a7d52eb26125dfb46448f6f0367d&o=",
+      "block_ids": ["262893402_245984736_1_1_0"],
+      "review_nr": 3792,
+      "city": "Moscow",
+      "class": 4.0,
+      "is_mobile_deal": 1,
+      "extended": 0,
+      "distances": [
+        {
+          "icon_set": null,
+          "text": "‎Беговой‬ • ‎5 км от центра‬",
+          "icon_name": "bui_geo_pin"
+        }
+      ],
+      "is_city_center": 0,
+      "district": "Беговой",
+      "type": "property_card",
+      "checkin": { "until": "", "from": "14:00" },
+      "native_ads_cpc": 0.0,
+      "cant_book": 0,
+      "cc_required": 1,
+      "min_total_price": 3645,
+      "cc1": "ru",
+      "genius_discount_percentage": 0,
+      "hotel_name": "Hotel Empire",
+      "preferred_plus": 0,
+      "price_breakdown": {
+        "has_tax_exceptions": 0,
+        "sum_excluded_raw": "0.00",
+        "has_incalculable_charges": 0,
+        "currency": "RUB",
+        "gross_price": "3645.00",
+        "all_inclusive_price": 3645.0,
+        "has_fine_print_charges": 1
+      },
+      "mobile_discount_percentage": 405.0,
+      "distance_to_cc": "5.00",
+      "city_trans": "Москва",
+      "is_beach_front": 0,
+      "hotel_name_trans": "Отель Империя",
+      "native_ads_tracking": "",
+      "review_recommendation": "",
+      "is_smart_deal": 0,
+      "is_free_cancellable": 1,
+      "main_photo_id": 123943792,
+      "district_id": 5504,
+      "address": "Pervy Botkinsky Proyezd 6",
+      "accommodation_type_name": "Отель",
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/123943792.jpg?k=c782b647f8e4b09082665954aeeb65f5ac14a7d52eb26125dfb46448f6f0367d&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/123943792.jpg?k=c782b647f8e4b09082665954aeeb65f5ac14a7d52eb26125dfb46448f6f0367d&o="
+    },
+    {
+      "city_in_trans": "в Москве",
+      "hotel_has_vb_boost": 0,
+      "currency_code": "RUB",
+      "default_language": "en",
+      "is_genius_deal": 0,
+      "countrycode": "ru",
+      "id": "property_card_340311",
+      "zip": "115114",
+      "badges": [],
+      "composite_price_breakdown": {
+        "benefits": [],
+        "excluded_amount": { "value": 0, "currency": "RUB" },
+        "gross_amount_per_night": { "currency": "RUB", "value": 5880.0 },
+        "product_price_breakdowns": [
+          {
+            "items": [
+              {
+                "name": "НДС",
+                "base": { "kind": "percentage", "percentage": 20.0 },
+                "inclusion_type": "included",
+                "item_amount": { "currency": "RUB", "value": 980 },
+                "details": "НДС в размере 20 % ",
+                "kind": "charge"
+              }
+            ],
+            "included_taxes_and_charges_amount": {
+              "value": 980,
+              "currency": "RUB"
+            },
+            "gross_amount": { "value": 5880, "currency": "RUB" },
+            "all_inclusive_amount": { "value": 5880, "currency": "RUB" },
+            "excluded_amount": { "currency": "RUB", "value": 0 },
+            "gross_amount_per_night": { "value": 5880.0, "currency": "RUB" },
+            "benefits": [],
+            "net_amount": { "value": 4900, "currency": "RUB" }
+          }
+        ],
+        "net_amount": { "value": 4900, "currency": "RUB" },
+        "included_taxes_and_charges_amount": {
+          "value": 980,
+          "currency": "RUB"
+        },
+        "items": [
+          {
+            "kind": "charge",
+            "details": "НДС в размере 20 % ",
+            "inclusion_type": "included",
+            "item_amount": { "value": 980, "currency": "RUB" },
+            "base": { "kind": "percentage", "percentage": 20.0 },
+            "name": "НДС"
+          }
+        ],
+        "all_inclusive_amount": { "value": 5880, "currency": "RUB" },
+        "gross_amount": { "value": 5880, "currency": "RUB" }
+      },
+      "hotel_facilities": "502,7,425,47,206,445,462,305,20,117,163,444,424,22,439,3,96,411,80,142,160,23,489,449,451,91,461,158,493,440,420,448,161,458,468,51,492,109,457,467,450,73,49,460,436,108,180,81,459,107,11,133,140,421,145,8,205,6,491,454,203,2,17,25,464,16,455,418,111,5,48,463,44,204,453,422,70",
+      "districts": "1694,2134,12109",
+      "distance": "3.10",
+      "is_no_prepayment_block": 1,
+      "soldout": 0,
+      "unit_configuration_label": "<b>Номер в отеле</b>: 2 кровати",
+      "review_score_word": "Потрясающе",
+      "children_not_allowed": 0,
+      "url": "https://www.booking.com/hotel/ru/courtyard-by-marriott-moscow-paveletskaya.html",
+      "ufi": -2960561,
+      "longitude": 37.6440340279805,
+      "review_score": 8.9,
+      "price_is_final": 0,
+      "in_best_district": 0,
+      "country_trans": "Россия",
+      "hotel_id": 340311,
+      "accommodation_type": 204,
+      "class_is_estimated": 0,
+      "bwallet": { "hotel_eligibility": 0 },
+      "preferred": 1,
+      "default_wishlist_name": "Москва",
+      "latitude": 55.7294069025024,
+      "selected_review_topic": null,
+      "is_geo_rate": "",
+      "native_ad_id": "",
+      "city_name_en": "Moscow",
+      "address_trans": "Улица Кожевническая 8 стр. 3",
+      "currencycode": "RUB",
+      "checkout": { "until": "12:00", "from": "" },
+      "wishlist_count": 0,
+      "timezone": "Europe/Moscow",
+      "city": "Moscow",
+      "review_nr": 2566,
+      "block_ids": ["34031103_274565458_0_2_0"],
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/317281495.jpg?k=edb476ba3b74e5f77d6eeb8e1ae77f782702297a44958130fb628c1a5ba0c854&o=",
+      "class": 4.0,
+      "is_mobile_deal": 0,
+      "distances": [
+        {
+          "icon_set": null,
+          "text": "‎Замоскворечье‬ • ‎3,1 км от центра‬",
+          "icon_name": "bui_geo_pin"
+        },
+        { "icon_set": null, "text": "‎Чистота 9,1‬", "icon_name": "bui_clean" }
+      ],
+      "extended": 0,
+      "district": "Замоскворечье",
+      "is_city_center": 0,
+      "checkin": { "from": "15:00", "until": "" },
+      "type": "property_card",
+      "cant_book": 0,
+      "native_ads_cpc": 0.0,
+      "cc_required": 1,
+      "min_total_price": 5880,
+      "cc1": "ru",
+      "genius_discount_percentage": 0,
+      "hotel_name": "Courtyard by Marriott Moscow Paveletskaya Hotel",
+      "preferred_plus": 0,
+      "price_breakdown": {
+        "all_inclusive_price": 5880.0,
+        "has_fine_print_charges": 1,
+        "gross_price": "5880.00",
+        "currency": "RUB",
+        "sum_excluded_raw": "0.00",
+        "has_incalculable_charges": 0,
+        "has_tax_exceptions": 0
+      },
+      "mobile_discount_percentage": 0,
+      "is_beach_front": 0,
+      "hotel_include_breakfast": 0,
+      "city_trans": "Москва",
+      "distance_to_cc": "3.10",
+      "hotel_name_trans": "Отель Кортъярд Марриотт Москва Павелецкая",
+      "native_ads_tracking": "",
+      "review_recommendation": "",
+      "is_smart_deal": 0,
+      "main_photo_id": 317281495,
+      "is_free_cancellable": 1,
+      "district_id": 1694,
+      "accommodation_type_name": "Отель",
+      "address": "Kozhevnicheskaya Street 8 bld.3",
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/317281495.jpg?k=edb476ba3b74e5f77d6eeb8e1ae77f782702297a44958130fb628c1a5ba0c854&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/317281495.jpg?k=edb476ba3b74e5f77d6eeb8e1ae77f782702297a44958130fb628c1a5ba0c854&o="
+    },
+    {
+      "city_in_trans": "в Москве",
+      "hotel_has_vb_boost": 0,
+      "currency_code": "RUB",
+      "countrycode": "ru",
+      "is_genius_deal": 0,
+      "id": "property_card_48018",
+      "default_language": "en",
+      "composite_price_breakdown": {
+        "included_taxes_and_charges_amount": {
+          "currency": "RUB",
+          "value": 566.25
+        },
+        "all_inclusive_amount": { "value": 3397.5, "currency": "RUB" },
+        "discounted_amount": { "currency": "RUB", "value": 377.5 },
+        "gross_amount": { "value": 3397.5, "currency": "RUB" },
+        "excluded_amount": { "currency": "RUB", "value": 0 },
+        "gross_amount_per_night": { "value": 3397.5, "currency": "RUB" },
+        "product_price_breakdowns": [
+          {
+            "benefits": [
+              {
+                "kind": "badge",
+                "name": "Цена в мобильных устройствах",
+                "icon": null,
+                "badge_variant": "constructive",
+                "details": "Вы получаете более низкую цену, потому что здесь действует скидка при бронировании с мобильного устройства.",
+                "identifier": "mobile-rate"
+              }
+            ],
+            "strikethrough_amount": { "value": 3775, "currency": "RUB" },
+            "gross_amount_per_night": { "currency": "RUB", "value": 3397.5 },
+            "excluded_amount": { "value": 0, "currency": "RUB" },
+            "net_amount": { "value": 2831.25, "currency": "RUB" },
+            "included_taxes_and_charges_amount": {
+              "value": 566.25,
+              "currency": "RUB"
+            },
+            "items": [
+              {
+                "base": { "percentage": 20.0, "kind": "percentage" },
+                "name": "НДС",
+                "kind": "charge",
+                "details": "НДС в размере 20 % ",
+                "inclusion_type": "included",
+                "item_amount": { "currency": "RUB", "value": 566.25 }
+              },
+              {
+                "base": { "kind": "rate" },
+                "name": "Цена в мобильных устройствах",
+                "identifier": "mobile-discount",
+                "details": "Вы получаете более низкую цену, потому что используете мобильную версию сайта.",
+                "kind": "discount",
+                "item_amount": { "value": 377.5, "currency": "RUB" }
+              }
+            ],
+            "all_inclusive_amount": { "value": 3397.5, "currency": "RUB" },
+            "strikethrough_amount_per_night": {
+              "value": 3775.0,
+              "currency": "RUB"
+            },
+            "discounted_amount": { "currency": "RUB", "value": 377.5 },
+            "gross_amount": { "currency": "RUB", "value": 3397.5 }
+          }
+        ],
+        "net_amount": { "currency": "RUB", "value": 2831.25 },
+        "items": [
+          {
+            "inclusion_type": "included",
+            "item_amount": { "currency": "RUB", "value": 566.25 },
+            "details": "НДС в размере 20 % ",
+            "kind": "charge",
+            "name": "НДС",
+            "base": { "kind": "percentage", "percentage": 20.0 }
+          },
+          {
+            "kind": "discount",
+            "details": "Вы получаете более низкую цену, потому что используете мобильную версию сайта.",
+            "item_amount": { "value": 377.5, "currency": "RUB" },
+            "identifier": "mobile-discount",
+            "base": { "kind": "rate" },
+            "name": "Цена в мобильных устройствах"
+          }
+        ],
+        "strikethrough_amount_per_night": {
+          "value": 3775.0,
+          "currency": "RUB"
+        },
+        "strikethrough_amount": { "value": 3775, "currency": "RUB" },
+        "benefits": [
+          {
+            "name": "Цена в мобильных устройствах",
+            "kind": "badge",
+            "identifier": "mobile-rate",
+            "details": "Вы получаете более низкую цену, потому что здесь действует скидка при бронировании с мобильного устройства.",
+            "icon": null,
+            "badge_variant": "constructive"
+          }
+        ]
+      },
+      "hotel_facilities": "305,110,253,444,10,117,163,20,3,22,424,411,80,64,96,425,186,7,47,423,54,304,219,445,206,121,433,241,160,257,177,23,91,158,81,180,108,436,127,107,11,421,140,161,109,51,129,43,79,301,73,176,111,465,78,418,184,124,48,5,204,44,410,422,6,205,8,198,419,491,16,103,25,2,17,203,185,426",
+      "districts": "1695,12109",
+      "zip": "107140",
+      "badges": [
+        {
+          "text": "Цена только для моб. устройств",
+          "badge_variant": "constructive",
+          "id": "mobile_price"
+        }
+      ],
+      "unit_configuration_label": "<b>Номер в отеле</b>: 1 кровать",
+      "distance": "5.06",
+      "is_no_prepayment_block": 1,
+      "soldout": 0,
+      "review_score_word": "Потрясающе",
+      "children_not_allowed": 0,
+      "in_best_district": 0,
+      "country_trans": "Россия",
+      "hotel_id": 48018,
+      "accommodation_type": 204,
+      "ufi": -2960561,
+      "url": "https://www.booking.com/hotel/ru/borodino.html",
+      "review_score": 8.8,
+      "price_is_final": 1,
+      "longitude": 37.6724007725716,
+      "latitude": 55.784576467696,
+      "default_wishlist_name": "Москва",
+      "is_geo_rate": "",
+      "selected_review_topic": null,
+      "native_ad_id": "",
+      "class_is_estimated": 0,
+      "bwallet": { "hotel_eligibility": 0 },
+      "preferred": 1,
+      "timezone": "Europe/Moscow",
+      "block_ids": ["4801802_310848029_0_34_0"],
+      "review_nr": 3088,
+      "city": "Moscow",
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/96114534.jpg?k=7600549ca6bc470e22db83594bfa74d9935124263629699e84353f366b360278&o=",
+      "city_name_en": "Moscow",
+      "address_trans": "Русаковская ул.13/5",
+      "currencycode": "RUB",
+      "checkout": { "from": "", "until": "12:00" },
+      "wishlist_count": 0,
+      "is_mobile_deal": 1,
+      "extended": 0,
+      "distances": [
+        {
+          "icon_set": null,
+          "icon_name": "bui_geo_pin",
+          "text": "‎Красносельский‬ • ‎5 км от центра‬"
+        },
+        { "text": "‎Чистота 9,0‬", "icon_name": "bui_clean", "icon_set": null }
+      ],
+      "class": 4.0,
+      "native_ads_cpc": 0.0,
+      "cant_book": 0,
+      "cc_required": 1,
+      "district": "Красносельский",
+      "is_city_center": 0,
+      "checkin": { "until": "", "from": "14:00" },
+      "type": "property_card",
+      "min_total_price": 3397.5,
+      "hotel_name": "Borodino Hotel",
+      "cc1": "ru",
+      "genius_discount_percentage": 0,
+      "mobile_discount_percentage": 377.5,
+      "is_beach_front": 0,
+      "hotel_include_breakfast": 0,
+      "city_trans": "Москва",
+      "distance_to_cc": "5.10",
+      "preferred_plus": 0,
+      "price_breakdown": {
+        "currency": "RUB",
+        "gross_price": "3397.50",
+        "all_inclusive_price": 3397.5,
+        "has_fine_print_charges": 0,
+        "has_tax_exceptions": 0,
+        "sum_excluded_raw": "0.00",
+        "has_incalculable_charges": 0
+      },
+      "native_ads_tracking": "",
+      "review_recommendation": "",
+      "hotel_name_trans": "Отель Бородино",
+      "main_photo_id": 96114534,
+      "is_free_cancellable": 1,
+      "district_id": 1695,
+      "is_smart_deal": 0,
+      "accommodation_type_name": "Отель",
+      "address": "Ulitsa Rusakovskaya 13/5",
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/96114534.jpg?k=7600549ca6bc470e22db83594bfa74d9935124263629699e84353f366b360278&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/96114534.jpg?k=7600549ca6bc470e22db83594bfa74d9935124263629699e84353f366b360278&o="
+    },
+    {
+      "distance_to_cc": "8.70",
+      "is_beach_front": 0,
+      "city_trans": "Москва",
+      "hotel_include_breakfast": 0,
+      "mobile_discount_percentage": 450.0,
+      "price_breakdown": {
+        "has_tax_exceptions": 0,
+        "has_incalculable_charges": 0,
+        "sum_excluded_raw": "0.00",
+        "currency": "RUB",
+        "gross_price": "4050.00",
+        "has_fine_print_charges": 0,
+        "all_inclusive_price": 4050.0
+      },
+      "preferred_plus": 0,
+      "review_recommendation": "",
+      "native_ads_tracking": "",
+      "hotel_name_trans": "Парк Тауэр",
+      "district_id": 5506,
+      "is_free_cancellable": 1,
+      "main_photo_id": 325569273,
+      "is_smart_deal": 0,
+      "address": "Dmitrovskoe Shosse 27",
+      "accommodation_type_name": "Отель",
+      "extended": 0,
+      "distances": [
+        {
+          "icon_name": "bui_geo_pin",
+          "text": "‎Тимирязевский‬ • ‎9 км от центра‬",
+          "icon_set": null
+        },
+        { "icon_set": null, "icon_name": "bui_clean", "text": "‎Чистота 9,0‬" }
+      ],
+      "is_mobile_deal": 1,
+      "class": 4.0,
+      "cc_required": 1,
+      "native_ads_cpc": 0.0,
+      "cant_book": 0,
+      "type": "property_card",
+      "checkin": { "from": "14:00", "until": "" },
+      "is_city_center": 0,
+      "district": "Тимирязевский",
+      "cc1": "ru",
+      "hotel_name": "Park Tower",
+      "genius_discount_percentage": 0,
+      "min_total_price": 4050,
+      "children_not_allowed": 0,
+      "review_score_word": "Потрясающе",
+      "accommodation_type": 204,
+      "hotel_id": 245029,
+      "country_trans": "Россия",
+      "in_best_district": 0,
+      "longitude": 37.5717592238652,
+      "review_score": 8.8,
+      "price_is_final": 1,
+      "url": "https://www.booking.com/hotel/ru/molodyozhny.html",
+      "ufi": -2960561,
+      "native_ad_id": "",
+      "selected_review_topic": null,
+      "is_geo_rate": "",
+      "latitude": 55.8263659780993,
+      "default_wishlist_name": "Москва",
+      "preferred": 1,
+      "bwallet": { "hotel_eligibility": 0 },
+      "class_is_estimated": 0,
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/325569273.jpg?k=c4098d65549222eb355708128f2e7fd7042071cd8c69a073475a41ff237ba4b4&o=",
+      "review_nr": 7812,
+      "block_ids": ["24502920_253533344_2_2_0"],
+      "city": "Moscow",
+      "timezone": "Europe/Moscow",
+      "wishlist_count": 0,
+      "checkout": { "from": "", "until": "12:00" },
+      "currencycode": "RUB",
+      "address_trans": "Дмитровское шоссе, 27",
+      "city_name_en": "Moscow",
+      "currency_code": "RUB",
+      "hotel_has_vb_boost": 0,
+      "city_in_trans": "в Москве",
+      "id": "property_card_245029",
+      "countrycode": "ru",
+      "is_genius_deal": 0,
+      "default_language": "en",
+      "districts": "5506",
+      "hotel_facilities": "44,204,453,422,418,455,111,5,48,454,25,2,17,16,446,8,6,107,11,140,421,108,180,81,43,457,467,450,460,458,161,468,51,109,179,420,488,449,451,461,91,158,160,23,484,424,22,3,28,80,96,411,305,20,163,253,219,462,485,7,425,47",
+      "composite_price_breakdown": {
+        "excluded_amount": { "value": 0, "currency": "RUB" },
+        "gross_amount_per_night": { "value": 4050.0, "currency": "RUB" },
+        "product_price_breakdowns": [
+          {
+            "strikethrough_amount": { "value": 4500, "currency": "RUB" },
+            "benefits": [
+              {
+                "name": "Цена в мобильных устройствах",
+                "kind": "badge",
+                "identifier": "mobile-rate",
+                "details": "Вы получаете более низкую цену, потому что здесь действует скидка при бронировании с мобильного устройства.",
+                "icon": null,
+                "badge_variant": "constructive"
+              }
+            ],
+            "excluded_amount": { "currency": "RUB", "value": 0 },
+            "gross_amount_per_night": { "value": 4050.0, "currency": "RUB" },
+            "net_amount": { "value": 4050, "currency": "RUB" },
+            "included_taxes_and_charges_amount": {
+              "currency": "RUB",
+              "value": 0
+            },
+            "items": [
+              {
+                "name": "Цена в мобильных устройствах",
+                "base": { "kind": "rate" },
+                "identifier": "mobile-discount",
+                "item_amount": { "currency": "RUB", "value": 450 },
+                "kind": "discount",
+                "details": "Вы получаете более низкую цену, потому что используете мобильную версию сайта."
+              }
+            ],
+            "all_inclusive_amount": { "value": 4050, "currency": "RUB" },
+            "strikethrough_amount_per_night": {
+              "value": 4500.0,
+              "currency": "RUB"
+            },
+            "discounted_amount": { "value": 450, "currency": "RUB" },
+            "gross_amount": { "currency": "RUB", "value": 4050 }
+          }
+        ],
+        "net_amount": { "currency": "RUB", "value": 4050 },
+        "included_taxes_and_charges_amount": { "currency": "RUB", "value": 0 },
+        "discounted_amount": { "value": 450, "currency": "RUB" },
+        "gross_amount": { "currency": "RUB", "value": 4050 },
+        "all_inclusive_amount": { "value": 4050, "currency": "RUB" },
+        "strikethrough_amount": { "value": 4500, "currency": "RUB" },
+        "benefits": [
+          {
+            "identifier": "mobile-rate",
+            "details": "Вы получаете более низкую цену, потому что здесь действует скидка при бронировании с мобильного устройства.",
+            "badge_variant": "constructive",
+            "icon": null,
+            "name": "Цена в мобильных устройствах",
+            "kind": "badge"
+          }
+        ],
+        "items": [
+          {
+            "identifier": "mobile-discount",
+            "name": "Цена в мобильных устройствах",
+            "base": { "kind": "rate" },
+            "item_amount": { "currency": "RUB", "value": 450 },
+            "details": "Вы получаете более низкую цену, потому что используете мобильную версию сайта.",
+            "kind": "discount"
+          }
+        ],
+        "strikethrough_amount_per_night": { "value": 4500.0, "currency": "RUB" }
+      },
+      "badges": [
+        {
+          "badge_variant": "constructive",
+          "text": "Цена только для моб. устройств",
+          "id": "mobile_price"
+        }
+      ],
+      "zip": "127550",
+      "unit_configuration_label": "<b>Номер в отеле</b>: 2 кровати",
+      "soldout": 0,
+      "is_no_prepayment_block": 1,
+      "distance": "8.69",
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/325569273.jpg?k=c4098d65549222eb355708128f2e7fd7042071cd8c69a073475a41ff237ba4b4&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/325569273.jpg?k=c4098d65549222eb355708128f2e7fd7042071cd8c69a073475a41ff237ba4b4&o="
+    },
+    {
+      "city_name_en": "Moscow",
+      "address_trans": "Ленинградский проспект 37 корп.9",
+      "currencycode": "RUB",
+      "checkout": { "from": "", "until": "12:00" },
+      "wishlist_count": 0,
+      "timezone": "Europe/Moscow",
+      "block_ids": ["4848801_249591830_0_34_0"],
+      "review_nr": 6065,
+      "city": "Moscow",
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/289699480.jpg?k=e57cb35eda2b4eae1dbf35e4676c9612a958bb0d915d2865d986bc0af633756d&o=",
+      "class_is_estimated": 0,
+      "preferred": 1,
+      "bwallet": { "hotel_eligibility": 0 },
+      "latitude": 55.79070238,
+      "default_wishlist_name": "Москва",
+      "selected_review_topic": null,
+      "is_geo_rate": "",
+      "native_ad_id": "",
+      "ufi": -2960561,
+      "url": "https://www.booking.com/hotel/ru/aerostar.html",
+      "price_is_final": 1,
+      "review_score": 8.5,
+      "longitude": 37.54786849,
+      "in_best_district": 0,
+      "country_trans": "Россия",
+      "hotel_id": 48488,
+      "accommodation_type": 204,
+      "review_score_word": "Очень хорошо",
+      "children_not_allowed": 0,
+      "distance": "6.02",
+      "is_no_prepayment_block": 0,
+      "soldout": 0,
+      "unit_configuration_label": "<b>Номер в отеле</b>: 1 кровать",
+      "zip": "125993",
+      "badges": [],
+      "composite_price_breakdown": {
+        "gross_amount_per_night": { "value": 4100.0, "currency": "RUB" },
+        "excluded_amount": { "currency": "RUB", "value": 0 },
+        "benefits": [],
+        "product_price_breakdowns": [
+          {
+            "items": [
+              {
+                "details": "НДС в размере 20 % ",
+                "kind": "charge",
+                "inclusion_type": "included",
+                "item_amount": { "currency": "RUB", "value": 683.333333333333 },
+                "base": { "kind": "percentage", "percentage": 20.0 },
+                "name": "НДС"
+              }
+            ],
+            "included_taxes_and_charges_amount": {
+              "value": 683.333333333333,
+              "currency": "RUB"
+            },
+            "gross_amount": { "value": 4100, "currency": "RUB" },
+            "all_inclusive_amount": { "value": 4100, "currency": "RUB" },
+            "gross_amount_per_night": { "value": 4100.0, "currency": "RUB" },
+            "excluded_amount": { "value": 0, "currency": "RUB" },
+            "benefits": [],
+            "net_amount": { "currency": "RUB", "value": 3416.66666666667 }
+          }
+        ],
+        "net_amount": { "value": 3416.66666666667, "currency": "RUB" },
+        "items": [
+          {
+            "item_amount": { "currency": "RUB", "value": 683.333333333333 },
+            "inclusion_type": "included",
+            "kind": "charge",
+            "details": "НДС в размере 20 % ",
+            "name": "НДС",
+            "base": { "percentage": 20.0, "kind": "percentage" }
+          }
+        ],
+        "included_taxes_and_charges_amount": {
+          "value": 683.333333333333,
+          "currency": "RUB"
+        },
+        "gross_amount": { "value": 4100, "currency": "RUB" },
+        "all_inclusive_amount": { "value": 4100, "currency": "RUB" }
+      },
+      "hotel_facilities": "111,455,5,204,422,8,205,6,446,145,252,198,25,17,2,464,454,486,185,230,180,235,81,108,459,133,140,161,209,51,467,234,229,457,43,450,488,420,23,257,158,91,210,163,404,20,22,424,80,96,425,4,219,462,176,124,48,453,44,143,16,27,203,426,436,233,11,107,188,468,458,109,129,134,73,487,160,449,461,451,305,110,10,253,28,3,484,218,226,7,485,186,47,58,304,423,445,231,206",
+      "districts": "5561",
+      "default_language": "en",
+      "is_genius_deal": 0,
+      "countrycode": "ru",
+      "id": "property_card_48488",
+      "city_in_trans": "в Москве",
+      "hotel_has_vb_boost": 0,
+      "currency_code": "RUB",
+      "accommodation_type_name": "Отель",
+      "address": "Leningradsky Prospekt 37 bld 9",
+      "is_smart_deal": 0,
+      "main_photo_id": 289699480,
+      "is_free_cancellable": 1,
+      "district_id": 5561,
+      "hotel_name_trans": "Отель Аэростар",
+      "native_ads_tracking": "",
+      "review_recommendation": "",
+      "preferred_plus": 0,
+      "price_breakdown": {
+        "has_tax_exceptions": 0,
+        "sum_excluded_raw": "0.00",
+        "has_incalculable_charges": 0,
+        "currency": "RUB",
+        "gross_price": "4100.00",
+        "all_inclusive_price": 4100.0,
+        "has_fine_print_charges": 0
+      },
+      "mobile_discount_percentage": 0,
+      "city_trans": "Москва",
+      "is_beach_front": 0,
+      "hotel_include_breakfast": 0,
+      "distance_to_cc": "6.05",
+      "min_total_price": 4100,
+      "hotel_name": "Aerostar Hotel",
+      "cc1": "ru",
+      "genius_discount_percentage": 0,
+      "district": "Хорошевский",
+      "is_city_center": 0,
+      "checkin": { "from": "14:00", "until": "" },
+      "type": "property_card",
+      "cant_book": 0,
+      "native_ads_cpc": 0.0,
+      "cc_required": 1,
+      "class": 4.0,
+      "is_mobile_deal": 0,
+      "distances": [
+        {
+          "text": "‎Хорошевский‬ • ‎6 км от центра‬",
+          "icon_name": "bui_geo_pin",
+          "icon_set": null
+        }
+      ],
+      "extended": 0,
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/289699480.jpg?k=e57cb35eda2b4eae1dbf35e4676c9612a958bb0d915d2865d986bc0af633756d&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/289699480.jpg?k=e57cb35eda2b4eae1dbf35e4676c9612a958bb0d915d2865d986bc0af633756d&o="
+    },
+    {
+      "preferred": 1,
+      "bwallet": { "hotel_eligibility": 0 },
+      "class_is_estimated": 0,
+      "is_geo_rate": "",
+      "selected_review_topic": null,
+      "native_ad_id": "",
+      "default_wishlist_name": "Москва",
+      "latitude": 55.810003,
+      "checkout": { "from": "", "until": "12:00" },
+      "wishlist_count": 0,
+      "city_name_en": "Moscow",
+      "currencycode": "RUB",
+      "address_trans": "Староалексеевская, 20 ",
+      "block_ids": ["722277101_333284929_2_0_0"],
+      "review_nr": 990,
+      "city": "Moscow",
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/296348134.jpg?k=5bf1ff574b240a3c6bb0331e809a73336385294b0a3ff4856fbf97ea2f4c064a&o=",
+      "timezone": "Europe/Moscow",
+      "children_not_allowed": 0,
+      "review_score_word": "Великолепно",
+      "review_score": 9.5,
+      "price_is_final": 1,
+      "longitude": 37.642987,
+      "url": "https://www.booking.com/hotel/ru/1-art-otel.html",
+      "ufi": -2960561,
+      "accommodation_type": 204,
+      "hotel_id": 7222771,
+      "country_trans": "Россия",
+      "in_best_district": 0,
+      "zip": "129625",
+      "badges": [
+        {
+          "id": "mobile_price",
+          "text": "Цена только для моб. устройств",
+          "badge_variant": "constructive"
+        }
+      ],
+      "districts": "5507",
+      "composite_price_breakdown": {
+        "benefits": [
+          {
+            "name": "Цена в мобильных устройствах",
+            "kind": "badge",
+            "identifier": "mobile-rate",
+            "details": "Вы получаете более низкую цену, потому что здесь действует скидка при бронировании с мобильного устройства.",
+            "icon": null,
+            "badge_variant": "constructive"
+          }
+        ],
+        "strikethrough_amount": { "currency": "RUB", "value": 5989.5 },
+        "strikethrough_amount_per_night": {
+          "currency": "RUB",
+          "value": 5989.5
+        },
+        "items": [
+          {
+            "details": "Городской налог в размере 0 % ",
+            "kind": "charge",
+            "item_amount": { "currency": "RUB", "value": 0 },
+            "inclusion_type": "included",
+            "base": { "kind": "percentage", "percentage": 0.0 },
+            "name": "Городской налог"
+          },
+          {
+            "item_amount": { "value": 0, "currency": "RUB" },
+            "inclusion_type": "included",
+            "details": "НДС в размере 0 % ",
+            "kind": "charge",
+            "name": "НДС",
+            "base": { "percentage": 0.0, "kind": "percentage" }
+          },
+          {
+            "name": "Цена в мобильных устройствах",
+            "base": { "kind": "rate" },
+            "identifier": "mobile-discount",
+            "item_amount": { "value": 598.95, "currency": "RUB" },
+            "kind": "discount",
+            "details": "Вы получаете более низкую цену, потому что используете мобильную версию сайта."
+          }
+        ],
+        "net_amount": { "currency": "RUB", "value": 5390.55 },
+        "product_price_breakdowns": [
+          {
+            "included_taxes_and_charges_amount": {
+              "currency": "RUB",
+              "value": 0
+            },
+            "items": [
+              {
+                "name": "Городской налог",
+                "base": { "kind": "percentage", "percentage": 0.0 },
+                "inclusion_type": "included",
+                "item_amount": { "currency": "RUB", "value": 0 },
+                "details": "Городской налог в размере 0 % ",
+                "kind": "charge"
+              },
+              {
+                "details": "НДС в размере 0 % ",
+                "kind": "charge",
+                "inclusion_type": "included",
+                "item_amount": { "value": 0, "currency": "RUB" },
+                "base": { "kind": "percentage", "percentage": 0.0 },
+                "name": "НДС"
+              },
+              {
+                "item_amount": { "value": 598.95, "currency": "RUB" },
+                "details": "Вы получаете более низкую цену, потому что используете мобильную версию сайта.",
+                "kind": "discount",
+                "identifier": "mobile-discount",
+                "name": "Цена в мобильных устройствах",
+                "base": { "kind": "rate" }
+              }
+            ],
+            "strikethrough_amount_per_night": {
+              "value": 5989.5,
+              "currency": "RUB"
+            },
+            "all_inclusive_amount": { "value": 5390.55, "currency": "RUB" },
+            "gross_amount": { "value": 5390.55, "currency": "RUB" },
+            "discounted_amount": { "value": 598.95, "currency": "RUB" },
+            "strikethrough_amount": { "currency": "RUB", "value": 5989.5 },
+            "benefits": [
+              {
+                "name": "Цена в мобильных устройствах",
+                "kind": "badge",
+                "identifier": "mobile-rate",
+                "details": "Вы получаете более низкую цену, потому что здесь действует скидка при бронировании с мобильного устройства.",
+                "icon": null,
+                "badge_variant": "constructive"
+              }
+            ],
+            "excluded_amount": { "value": 0, "currency": "RUB" },
+            "gross_amount_per_night": { "currency": "RUB", "value": 5390.55 },
+            "net_amount": { "value": 5390.55, "currency": "RUB" }
+          }
+        ],
+        "excluded_amount": { "value": 0, "currency": "RUB" },
+        "gross_amount_per_night": { "currency": "RUB", "value": 5390.55 },
+        "gross_amount": { "currency": "RUB", "value": 5390.55 },
+        "discounted_amount": { "value": 598.95, "currency": "RUB" },
+        "all_inclusive_amount": { "currency": "RUB", "value": 5390.55 },
+        "included_taxes_and_charges_amount": { "value": 0, "currency": "RUB" }
+      },
+      "hotel_facilities": "145,446,8,6,185,486,454,25,17,2,5,184,56,455,111,465,422,204,492,51,209,161,450,49,460,457,43,467,459,108,81,140,133,177,23,494,91,158,407,488,400,420,448,495,437,502,425,462,219,210,96,499,80,424,22,491,406,27,203,16,124,48,418,176,463,44,453,109,458,468,73,129,496,127,436,421,107,160,451,461,449,493,181,487,159,47,485,7,186,445,438,304,423,117,444,173,305,110,466,64,411,484,28,3",
+      "soldout": 0,
+      "distance": "6.65",
+      "is_no_prepayment_block": 0,
+      "unit_configuration_label": "<b>Номер в отеле</b>: 2 кровати",
+      "hotel_has_vb_boost": 0,
+      "currency_code": "RUB",
+      "city_in_trans": "в Москве",
+      "default_language": "ru",
+      "id": "property_card_7222771",
+      "is_genius_deal": 0,
+      "countrycode": "ru",
+      "is_smart_deal": 0,
+      "district_id": 5507,
+      "main_photo_id": 296348134,
+      "is_free_cancellable": 1,
+      "accommodation_type_name": "Отель",
+      "address": "Staroalekseevskaya, 20 ",
+      "price_breakdown": {
+        "sum_excluded_raw": "0.00",
+        "has_incalculable_charges": 0,
+        "has_tax_exceptions": 0,
+        "has_fine_print_charges": 0,
+        "all_inclusive_price": 5390.55,
+        "gross_price": 5390.55,
+        "currency": "RUB"
+      },
+      "preferred_plus": 0,
+      "hotel_include_breakfast": 0,
+      "is_beach_front": 0,
+      "city_trans": "Москва",
+      "distance_to_cc": "6.70",
+      "mobile_discount_percentage": 598.95,
+      "hotel_name_trans": "1 АРТ ОТЕЛЬ",
+      "review_recommendation": "",
+      "native_ads_tracking": "",
+      "cc1": "ru",
+      "genius_discount_percentage": 0,
+      "hotel_name": "1 ART HOTEL",
+      "min_total_price": 5390.55,
+      "class": 4.0,
+      "distances": [
+        {
+          "icon_set": null,
+          "icon_name": "bui_geo_pin",
+          "text": "‎Алексеевский‬ • ‎7 км от центра‬"
+        },
+        { "icon_set": null, "text": "‎Чистота 9,6‬", "icon_name": "bui_clean" }
+      ],
+      "extended": 0,
+      "is_mobile_deal": 1,
+      "checkin": { "until": "00:00", "from": "14:00" },
+      "type": "property_card",
+      "district": "Алексеевский",
+      "is_city_center": 0,
+      "cc_required": 1,
+      "native_ads_cpc": 0.0,
+      "cant_book": 0,
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/296348134.jpg?k=5bf1ff574b240a3c6bb0331e809a73336385294b0a3ff4856fbf97ea2f4c064a&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/296348134.jpg?k=5bf1ff574b240a3c6bb0331e809a73336385294b0a3ff4856fbf97ea2f4c064a&o="
+    },
+    {
+      "is_beach_front": 0,
+      "city_trans": "Москва",
+      "hotel_include_breakfast": 0,
+      "distance_to_cc": "7.70",
+      "mobile_discount_percentage": 0,
+      "price_breakdown": {
+        "gross_price": "3500.00",
+        "has_fine_print_charges": 0,
+        "all_inclusive_price": 3500.0,
+        "currency": "RUB",
+        "sum_excluded_raw": "0.00",
+        "has_incalculable_charges": 0,
+        "has_tax_exceptions": 0
+      },
+      "preferred_plus": 0,
+      "review_recommendation": "",
+      "native_ads_tracking": "",
+      "hotel_name_trans": "Москоу Холидэй Отель",
+      "district_id": 5556,
+      "is_free_cancellable": 1,
+      "main_photo_id": 289836067,
+      "is_smart_deal": 0,
+      "accommodation_type_name": "Отель",
+      "address": "Mnevniki Street 3 Bld.2",
+      "distances": [
+        {
+          "text": "‎Хорошево-Мневники‬ • ‎8 км от центра‬",
+          "icon_name": "bui_geo_pin",
+          "icon_set": null
+        }
+      ],
+      "extended": 0,
+      "is_mobile_deal": 0,
+      "class": 4.0,
+      "cc_required": 1,
+      "cant_book": 0,
+      "native_ads_cpc": 0.0,
+      "checkin": { "from": "14:00", "until": "23:00" },
+      "type": "property_card",
+      "district": "Хорошево-Мневники",
+      "is_city_center": 0,
+      "genius_discount_percentage": 0,
+      "cc1": "ru",
+      "hotel_name": "Moscow Holiday Hotel",
+      "min_total_price": 3500,
+      "children_not_allowed": 0,
+      "review_score_word": "Очень хорошо",
+      "accommodation_type": 204,
+      "hotel_id": 262960,
+      "in_best_district": 0,
+      "country_trans": "Россия",
+      "review_score": 8.4,
+      "price_is_final": 1,
+      "longitude": 37.4991703033447,
+      "ufi": -2960561,
+      "url": "https://www.booking.com/hotel/ru/kassado-plaza.html",
+      "is_geo_rate": "",
+      "selected_review_topic": null,
+      "native_ad_id": "",
+      "latitude": 55.7738032554372,
+      "default_wishlist_name": "Москва",
+      "bwallet": { "hotel_eligibility": 0 },
+      "preferred": 1,
+      "class_is_estimated": 0,
+      "block_ids": ["26296001_139590961_0_2_0"],
+      "review_nr": 3004,
+      "city": "Moscow",
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/289836067.jpg?k=7d0a608e64f086cd23c22cedcfbaae51d8e43dac34abf19237358c6bb1267d84&o=",
+      "timezone": "Europe/Moscow",
+      "checkout": { "from": "01:00", "until": "12:00" },
+      "wishlist_count": 0,
+      "city_name_en": "Moscow",
+      "currencycode": "RUB",
+      "address_trans": "Улица Мневники, 3, стр. 2",
+      "hotel_has_vb_boost": 0,
+      "currency_code": "RUB",
+      "city_in_trans": "в Москве",
+      "id": "property_card_262960",
+      "is_genius_deal": 0,
+      "countrycode": "ru",
+      "default_language": "en",
+      "districts": "5556",
+      "composite_price_breakdown": {
+        "product_price_breakdowns": [
+          {
+            "net_amount": { "currency": "RUB", "value": 2916.66666666667 },
+            "benefits": [],
+            "excluded_amount": { "currency": "RUB", "value": 0 },
+            "gross_amount_per_night": { "value": 3500, "currency": "RUB" },
+            "all_inclusive_amount": { "value": 3500, "currency": "RUB" },
+            "gross_amount": { "value": 3500, "currency": "RUB" },
+            "included_taxes_and_charges_amount": {
+              "value": 583.333333333333,
+              "currency": "RUB"
+            },
+            "items": [
+              {
+                "base": { "kind": "percentage", "percentage": 20.0 },
+                "name": "НДС",
+                "kind": "charge",
+                "details": "НДС в размере 20 % ",
+                "inclusion_type": "included",
+                "item_amount": { "currency": "RUB", "value": 583.333333333333 }
+              }
+            ]
+          }
+        ],
+        "net_amount": { "value": 2916.66666666667, "currency": "RUB" },
+        "excluded_amount": { "currency": "RUB", "value": 0 },
+        "gross_amount_per_night": { "currency": "RUB", "value": 3500 },
+        "benefits": [],
+        "gross_amount": { "value": 3500, "currency": "RUB" },
+        "all_inclusive_amount": { "value": 3500, "currency": "RUB" },
+        "items": [
+          {
+            "item_amount": { "currency": "RUB", "value": 583.333333333333 },
+            "inclusion_type": "included",
+            "details": "НДС в размере 20 % ",
+            "kind": "charge",
+            "name": "НДС",
+            "base": { "percentage": 20.0, "kind": "percentage" }
+          }
+        ],
+        "included_taxes_and_charges_amount": {
+          "value": 583.333333333333,
+          "currency": "RUB"
+        }
+      },
+      "hotel_facilities": "48,5,465,418,455,422,204,453,44,8,6,205,145,446,486,143,2,17,16,27,454,459,180,81,108,436,421,140,133,11,107,51,109,468,458,450,467,129,43,457,488,160,461,91,158,451,449,10,163,20,305,456,80,466,96,28,3,22,424,47,46,485,7,425,462,445,452,304,423",
+      "zip": "123308",
+      "badges": [],
+      "unit_configuration_label": "<b>Номер в отеле</b>: 2 кровати",
+      "soldout": 0,
+      "distance": "7.67",
+      "is_no_prepayment_block": 1,
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/289836067.jpg?k=7d0a608e64f086cd23c22cedcfbaae51d8e43dac34abf19237358c6bb1267d84&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/289836067.jpg?k=7d0a608e64f086cd23c22cedcfbaae51d8e43dac34abf19237358c6bb1267d84&o="
+    },
+    {
+      "districts": "5515",
+      "hotel_facilities": "11,107,436,496,127,129,73,458,468,109,44,453,418,176,48,27,15,16,426,491,28,3,64,466,110,305,117,253,444,304,423,445,7,485,186,226,47,181,440,447,449,451,461,160,489,133,140,108,81,459,43,467,450,49,460,161,51,492,422,455,111,5,184,454,17,2,25,464,185,486,446,8,6,424,439,22,499,96,80,20,163,219,452,462,497,126,425,4,495,179,53,420,448,488,91,158",
+      "composite_price_breakdown": {
+        "benefits": [],
+        "gross_amount_per_night": { "currency": "RUB", "value": 4410.0 },
+        "excluded_amount": { "currency": "RUB", "value": 0 },
+        "product_price_breakdowns": [
+          {
+            "items": [
+              {
+                "name": "НДС",
+                "base": { "kind": "percentage", "percentage": 20.0 },
+                "item_amount": { "currency": "RUB", "value": 735 },
+                "inclusion_type": "included",
+                "details": "НДС в размере 20 % ",
+                "kind": "charge"
+              }
+            ],
+            "included_taxes_and_charges_amount": {
+              "value": 735,
+              "currency": "RUB"
+            },
+            "gross_amount": { "currency": "RUB", "value": 4410 },
+            "all_inclusive_amount": { "value": 4410, "currency": "RUB" },
+            "gross_amount_per_night": { "currency": "RUB", "value": 4410.0 },
+            "excluded_amount": { "value": 0, "currency": "RUB" },
+            "benefits": [],
+            "net_amount": { "currency": "RUB", "value": 3675 }
+          }
+        ],
+        "net_amount": { "currency": "RUB", "value": 3675 },
+        "included_taxes_and_charges_amount": {
+          "currency": "RUB",
+          "value": 735
+        },
+        "items": [
+          {
+            "details": "НДС в размере 20 % ",
+            "kind": "charge",
+            "inclusion_type": "included",
+            "item_amount": { "value": 735, "currency": "RUB" },
+            "base": { "percentage": 20.0, "kind": "percentage" },
+            "name": "НДС"
+          }
+        ],
+        "all_inclusive_amount": { "value": 4410, "currency": "RUB" },
+        "gross_amount": { "currency": "RUB", "value": 4410 }
+      },
+      "badges": [],
+      "zip": "105613",
+      "unit_configuration_label": "<b>Номер в отеле</b>: 1 кровать",
+      "soldout": 0,
+      "is_no_prepayment_block": 1,
+      "distance": "9.29",
+      "currency_code": "RUB",
+      "hotel_has_vb_boost": 0,
+      "city_in_trans": "в Москве",
+      "id": "property_card_180150",
+      "is_genius_deal": 0,
+      "countrycode": "ru",
+      "default_language": "en",
+      "native_ad_id": "",
+      "selected_review_topic": null,
+      "is_geo_rate": 1,
+      "latitude": 55.7907533819791,
+      "default_wishlist_name": "Москва",
+      "preferred": 1,
+      "bwallet": { "hotel_eligibility": 0 },
+      "class_is_estimated": 0,
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/337244298.jpg?k=1eb80cceea7275da56502e4869d77713065e20977557a041bb2d4178af7ba2a9&o=",
+      "block_ids": ["18015010_139971546_0_2_0"],
+      "review_nr": 13936,
+      "city": "Moscow",
+      "timezone": "Europe/Moscow",
+      "wishlist_count": 0,
+      "checkout": { "until": "12:00", "from": "" },
+      "address_trans": "Измайловское шоссе 71 строение 3В",
+      "currencycode": "RUB",
+      "city_name_en": "Moscow",
+      "children_not_allowed": 0,
+      "review_score_word": "Превосходно",
+      "hotel_id": 180150,
+      "accommodation_type": 204,
+      "country_trans": "Россия",
+      "in_best_district": 0,
+      "review_score": 9.0,
+      "price_is_final": 1,
+      "longitude": 37.7474345793235,
+      "ufi": -2960561,
+      "url": "https://www.booking.com/hotel/ru/izmailovo-vega.html",
+      "cc1": "ru",
+      "genius_discount_percentage": 0,
+      "hotel_name": "Vega Izmailovo Hotel",
+      "min_total_price": 4410,
+      "distances": [
+        {
+          "icon_name": "bui_geo_pin",
+          "text": "‎Измайлово‬ • ‎9 км от центра‬",
+          "icon_set": null
+        },
+        { "icon_name": "bui_clean", "text": "‎Чистота 9,1‬", "icon_set": null }
+      ],
+      "extended": 0,
+      "is_mobile_deal": 0,
+      "class": 4.0,
+      "cc_required": 1,
+      "native_ads_cpc": 0.0,
+      "cant_book": 0,
+      "type": "property_card",
+      "checkin": { "from": "14:00", "until": "" },
+      "is_city_center": 0,
+      "district": "Измайлово",
+      "district_id": 5515,
+      "main_photo_id": 337244298,
+      "is_free_cancellable": 1,
+      "is_smart_deal": 0,
+      "address": "Izmailovskoe Shosse 71 Bld.3V",
+      "accommodation_type_name": "Отель",
+      "distance_to_cc": "9.30",
+      "hotel_include_breakfast": 0,
+      "is_beach_front": 0,
+      "city_trans": "Москва",
+      "mobile_discount_percentage": 0,
+      "price_breakdown": {
+        "gross_price": "4410.00",
+        "has_fine_print_charges": 0,
+        "all_inclusive_price": 4410.0,
+        "currency": "RUB",
+        "has_incalculable_charges": 0,
+        "sum_excluded_raw": "0.00",
+        "has_tax_exceptions": 0
+      },
+      "preferred_plus": 0,
+      "review_recommendation": "",
+      "native_ads_tracking": "",
+      "hotel_name_trans": "Отель Вега Измайлово",
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/337244298.jpg?k=1eb80cceea7275da56502e4869d77713065e20977557a041bb2d4178af7ba2a9&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/337244298.jpg?k=1eb80cceea7275da56502e4869d77713065e20977557a041bb2d4178af7ba2a9&o="
+    },
+    {
+      "mobile_discount_percentage": 0,
+      "is_beach_front": 0,
+      "hotel_include_breakfast": 0,
+      "city_trans": "Москва",
+      "distance_to_cc": "9.50",
+      "preferred_plus": 0,
+      "price_breakdown": {
+        "has_incalculable_charges": 0,
+        "sum_excluded_raw": "0.00",
+        "has_tax_exceptions": 0,
+        "gross_price": "3445.00",
+        "all_inclusive_price": 3445.0,
+        "has_fine_print_charges": 1,
+        "currency": "RUB"
+      },
+      "native_ads_tracking": "",
+      "review_recommendation": "",
+      "hotel_name_trans": "Гостиница Измайлово Дельта",
+      "main_photo_id": 309273386,
+      "is_free_cancellable": 1,
+      "district_id": 5515,
+      "is_smart_deal": 0,
+      "accommodation_type_name": "Отель",
+      "address": "Izmailovskoe Shosse 71, 4 G - D",
+      "is_mobile_deal": 0,
+      "distances": [
+        {
+          "icon_set": null,
+          "text": "‎Измайлово‬ • ‎10 км от центра‬",
+          "icon_name": "bui_geo_pin"
+        }
+      ],
+      "extended": 0,
+      "class": 4.0,
+      "native_ads_cpc": 0.0,
+      "cant_book": 0,
+      "cc_required": 1,
+      "district": "Измайлово",
+      "is_city_center": 0,
+      "checkin": { "from": "14:00", "until": "" },
+      "type": "property_card",
+      "min_total_price": 3445,
+      "hotel_name": "Izmailovo Delta Hotel",
+      "cc1": "ru",
+      "genius_discount_percentage": 0,
+      "review_score_word": "Потрясающе",
+      "children_not_allowed": 0,
+      "in_best_district": 0,
+      "country_trans": "Россия",
+      "accommodation_type": 204,
+      "hotel_id": 245723,
+      "url": "https://www.booking.com/hotel/ru/izmailovo-delta.html",
+      "ufi": -2960561,
+      "review_score": 8.6,
+      "price_is_final": 0,
+      "longitude": 37.7493506669998,
+      "default_wishlist_name": "Москва",
+      "latitude": 55.7920655793585,
+      "is_geo_rate": "",
+      "selected_review_topic": null,
+      "native_ad_id": "",
+      "class_is_estimated": 0,
+      "bwallet": { "hotel_eligibility": 0 },
+      "preferred": 1,
+      "timezone": "Europe/Moscow",
+      "block_ids": ["24572308_278831842_0_34_0"],
+      "review_nr": 11665,
+      "city": "Moscow",
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/309273386.jpg?k=33f7be82c98f5c6df5c7bea4c1d2e1a4a3c5534c8e709d03966c6cae14e86f74&o=",
+      "city_name_en": "Moscow",
+      "address_trans": "Измайловское шоссе 71, корпус 4 Г- Д",
+      "currencycode": "RUB",
+      "checkout": { "until": "12:00", "from": "" },
+      "wishlist_count": 0,
+      "city_in_trans": "в Москве",
+      "hotel_has_vb_boost": 1,
+      "currency_code": "RUB",
+      "countrycode": "ru",
+      "is_genius_deal": 0,
+      "id": "property_card_245723",
+      "default_language": "en",
+      "composite_price_breakdown": {
+        "product_price_breakdowns": [
+          {
+            "items": [
+              {
+                "inclusion_type": "included",
+                "item_amount": { "value": 574.166666666667, "currency": "RUB" },
+                "details": "НДС в размере 20 % ",
+                "kind": "charge",
+                "name": "НДС",
+                "base": { "percentage": 20.0, "kind": "percentage" }
+              }
+            ],
+            "included_taxes_and_charges_amount": {
+              "currency": "RUB",
+              "value": 574.166666666667
+            },
+            "gross_amount": { "currency": "RUB", "value": 3445 },
+            "all_inclusive_amount": { "currency": "RUB", "value": 3445 },
+            "gross_amount_per_night": { "value": 3445.0, "currency": "RUB" },
+            "excluded_amount": { "value": 0, "currency": "RUB" },
+            "benefits": [],
+            "net_amount": { "value": 2870.83333333333, "currency": "RUB" }
+          }
+        ],
+        "net_amount": { "currency": "RUB", "value": 2870.83333333333 },
+        "excluded_amount": { "value": 0, "currency": "RUB" },
+        "gross_amount_per_night": { "value": 3445.0, "currency": "RUB" },
+        "benefits": [],
+        "gross_amount": { "currency": "RUB", "value": 3445 },
+        "all_inclusive_amount": { "currency": "RUB", "value": 3445 },
+        "items": [
+          {
+            "name": "НДС",
+            "base": { "percentage": 20.0, "kind": "percentage" },
+            "item_amount": { "value": 574.166666666667, "currency": "RUB" },
+            "inclusion_type": "included",
+            "details": "НДС в размере 20 % ",
+            "kind": "charge"
+          }
+        ],
+        "included_taxes_and_charges_amount": {
+          "currency": "RUB",
+          "value": 574.166666666667
+        }
+      },
+      "hotel_facilities": "464,16,103,2,25,27,454,6,205,8,446,422,453,204,44,57,48,184,124,5,55,111,455,418,301,460,450,467,79,109,51,468,458,161,240,421,107,11,459,81,135,436,108,158,461,91,451,23,177,160,241,136,53,179,433,121,445,462,206,50,423,54,219,437,4,47,77,226,7,425,80,466,96,64,22,3,424,163,117,10,305",
+      "districts": "5515",
+      "zip": "105613",
+      "badges": [],
+      "unit_configuration_label": "<b>Номер в отеле</b>: 2 кровати",
+      "distance": "9.47",
+      "is_no_prepayment_block": 1,
+      "soldout": 0,
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/309273386.jpg?k=33f7be82c98f5c6df5c7bea4c1d2e1a4a3c5534c8e709d03966c6cae14e86f74&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/309273386.jpg?k=33f7be82c98f5c6df5c7bea4c1d2e1a4a3c5534c8e709d03966c6cae14e86f74&o="
+    },
+    {
+      "preferred_plus": 0,
+      "price_breakdown": {
+        "has_tax_exceptions": 0,
+        "has_incalculable_charges": 0,
+        "sum_excluded_raw": "0.00",
+        "currency": "RUB",
+        "gross_price": "6600.00",
+        "all_inclusive_price": 6600.0,
+        "has_fine_print_charges": 1
+      },
+      "mobile_discount_percentage": 0,
+      "distance_to_cc": "3.20",
+      "hotel_include_breakfast": 0,
+      "is_beach_front": 0,
+      "city_trans": "Москва",
+      "hotel_name_trans": "Рэдиссон Славянская Отель и Бизнес Центр",
+      "native_ads_tracking": "",
+      "review_recommendation": "",
+      "is_smart_deal": 0,
+      "main_photo_id": 330430578,
+      "is_free_cancellable": 1,
+      "district_id": 11007,
+      "address": "Pl.Evropi 2",
+      "accommodation_type_name": "Отель",
+      "class": 4.0,
+      "is_mobile_deal": 0,
+      "extended": 0,
+      "distances": [
+        {
+          "icon_set": null,
+          "icon_name": "bui_geo_pin",
+          "text": "‎Дорогомилово‬ • ‎3,2 км от центра‬"
+        }
+      ],
+      "is_city_center": 0,
+      "district": "Дорогомилово",
+      "type": "property_card",
+      "checkin": { "until": "", "from": "15:00" },
+      "native_ads_cpc": 0.0,
+      "cant_book": 0,
+      "cc_required": 1,
+      "min_total_price": 6600,
+      "cc1": "ru",
+      "hotel_name": "Radisson Slavyanskaya Hotel & Business Center",
+      "genius_discount_percentage": 0,
+      "review_score_word": "Очень хорошо",
+      "children_not_allowed": 0,
+      "ufi": -2960561,
+      "url": "https://www.booking.com/hotel/ru/radisson-slavyanskaya-business-center.html",
+      "price_is_final": 0,
+      "review_score": 8.5,
+      "longitude": 37.5682693719864,
+      "in_best_district": 0,
+      "country_trans": "Россия",
+      "accommodation_type": 204,
+      "hotel_id": 179219,
+      "class_is_estimated": 0,
+      "bwallet": { "hotel_eligibility": 0 },
+      "preferred": 1,
+      "default_wishlist_name": "Москва",
+      "latitude": 55.74193984826,
+      "native_ad_id": "",
+      "is_geo_rate": "",
+      "selected_review_topic": null,
+      "currencycode": "RUB",
+      "address_trans": "Площадь Европы 2",
+      "city_name_en": "Moscow",
+      "wishlist_count": 0,
+      "checkout": { "until": "12:00", "from": "" },
+      "timezone": "Europe/Moscow",
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/330430578.jpg?k=2d1a130449fbbb8b14548823c871326f959ba7dabbf8e624e25918cc4473b70c&o=",
+      "review_nr": 12603,
+      "block_ids": ["17921909_246091946_2_2_0"],
+      "city": "Moscow",
+      "city_in_trans": "в Москве",
+      "currency_code": "RUB",
+      "hotel_has_vb_boost": 0,
+      "default_language": "en",
+      "countrycode": "ru",
+      "is_genius_deal": 0,
+      "id": "property_card_179219",
+      "badges": [],
+      "zip": "121059",
+      "hotel_facilities": "16,203,27,137,453,44,124,48,176,442,418,413,79,109,468,458,240,421,107,11,436,461,451,449,489,160,433,440,493,445,206,423,54,47,226,7,485,411,3,253,10,117,305,464,103,2,198,6,205,8,145,422,204,55,5,111,455,78,301,450,467,51,492,161,133,459,180,220,108,91,63,177,257,23,448,420,121,462,50,437,443,425,502,255,96,80,439,22,424,163",
+      "composite_price_breakdown": {
+        "product_price_breakdowns": [
+          {
+            "net_amount": { "value": 5500, "currency": "RUB" },
+            "benefits": [],
+            "gross_amount_per_night": { "currency": "RUB", "value": 6600.0 },
+            "excluded_amount": { "currency": "RUB", "value": 0 },
+            "all_inclusive_amount": { "currency": "RUB", "value": 6600 },
+            "gross_amount": { "value": 6600, "currency": "RUB" },
+            "included_taxes_and_charges_amount": {
+              "currency": "RUB",
+              "value": 1100
+            },
+            "items": [
+              {
+                "base": { "kind": "percentage", "percentage": 20.0 },
+                "name": "НДС",
+                "kind": "charge",
+                "details": "НДС в размере 20 % ",
+                "inclusion_type": "included",
+                "item_amount": { "value": 1100, "currency": "RUB" }
+              },
+              {
+                "base": { "kind": "per_stay", "base_amount": 3000.0 },
+                "name": "Залог на случай повреждений",
+                "details": "Залог на случай повреждений",
+                "kind": "charge",
+                "item_amount": { "currency": "RUB", "value": 3000 },
+                "inclusion_type": "deposit"
+              }
+            ]
+          }
+        ],
+        "net_amount": { "value": 5500, "currency": "RUB" },
+        "benefits": [],
+        "gross_amount_per_night": { "currency": "RUB", "value": 6600.0 },
+        "excluded_amount": { "value": 0, "currency": "RUB" },
+        "all_inclusive_amount": { "currency": "RUB", "value": 6600 },
+        "gross_amount": { "value": 6600, "currency": "RUB" },
+        "included_taxes_and_charges_amount": {
+          "value": 1100,
+          "currency": "RUB"
+        },
+        "items": [
+          {
+            "kind": "charge",
+            "details": "НДС в размере 20 % ",
+            "item_amount": { "value": 1100, "currency": "RUB" },
+            "inclusion_type": "included",
+            "base": { "kind": "percentage", "percentage": 20.0 },
+            "name": "НДС"
+          },
+          {
+            "inclusion_type": "deposit",
+            "item_amount": { "value": 3000, "currency": "RUB" },
+            "kind": "charge",
+            "details": "Залог на случай повреждений",
+            "name": "Залог на случай повреждений",
+            "base": { "base_amount": 3000.0, "kind": "per_stay" }
+          }
+        ]
+      },
+      "districts": "11007,2134",
+      "is_no_prepayment_block": 1,
+      "distance": "3.17",
+      "soldout": 0,
+      "unit_configuration_label": "<b>Номер в отеле</b>: 1 кровать",
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/330430578.jpg?k=2d1a130449fbbb8b14548823c871326f959ba7dabbf8e624e25918cc4473b70c&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/330430578.jpg?k=2d1a130449fbbb8b14548823c871326f959ba7dabbf8e624e25918cc4473b70c&o="
+    },
+    {
+      "min_total_price": 5000,
+      "cc1": "ru",
+      "genius_discount_percentage": 0,
+      "hotel_name": "Park Inn by Radisson Sadu",
+      "is_mobile_deal": 0,
+      "extended": 0,
+      "distances": [
+        {
+          "text": "‎Якиманка‬ • ‎1,5 км от центра‬",
+          "icon_name": "bui_geo_pin",
+          "icon_set": null
+        }
+      ],
+      "class": 4.0,
+      "cant_book": 0,
+      "native_ads_cpc": 0.0,
+      "cc_required": 1,
+      "is_city_center": 0,
+      "district": "Якиманка",
+      "type": "property_card",
+      "checkin": { "from": "14:00", "until": "" },
+      "main_photo_id": 238791445,
+      "is_free_cancellable": 1,
+      "district_id": 1701,
+      "is_smart_deal": 0,
+      "address": "Bolshaya Polyanka Str.17 bld 1",
+      "accommodation_type_name": "Отель",
+      "mobile_discount_percentage": 0,
+      "distance_to_cc": "1.50",
+      "city_trans": "Москва",
+      "is_beach_front": 0,
+      "hotel_include_breakfast": 0,
+      "preferred_plus": 0,
+      "price_breakdown": {
+        "has_tax_exceptions": 0,
+        "has_incalculable_charges": 0,
+        "sum_excluded_raw": "0.00",
+        "currency": "RUB",
+        "gross_price": "5000.00",
+        "all_inclusive_price": 5000.0,
+        "has_fine_print_charges": 0
+      },
+      "native_ads_tracking": "",
+      "review_recommendation": "",
+      "hotel_name_trans": "Парк Инн от Рэдиссон Саду",
+      "hotel_facilities": "449,461,91,158,451,23,495,487,420,488,304,423,445,462,452,485,425,7,4,47,28,3,22,424,456,64,96,80,305,110,163,444,17,16,464,454,8,6,419,204,453,44,422,465,455,418,48,5,467,129,457,43,73,450,468,458,51,109,133,107,140,421,81,436,108,459",
+      "composite_price_breakdown": {
+        "product_price_breakdowns": [
+          {
+            "benefits": [],
+            "excluded_amount": { "currency": "RUB", "value": 0 },
+            "gross_amount_per_night": { "currency": "RUB", "value": 5000.0 },
+            "net_amount": { "value": 4166.66666666667, "currency": "RUB" },
+            "included_taxes_and_charges_amount": {
+              "value": 833.333333333333,
+              "currency": "RUB"
+            },
+            "items": [
+              {
+                "name": "НДС",
+                "base": { "kind": "percentage", "percentage": 20.0 },
+                "inclusion_type": "included",
+                "item_amount": { "currency": "RUB", "value": 833.333333333333 },
+                "details": "НДС в размере 20 % ",
+                "kind": "charge"
+              }
+            ],
+            "all_inclusive_amount": { "currency": "RUB", "value": 5000 },
+            "gross_amount": { "currency": "RUB", "value": 5000 }
+          }
+        ],
+        "net_amount": { "value": 4166.66666666667, "currency": "RUB" },
+        "gross_amount_per_night": { "value": 5000.0, "currency": "RUB" },
+        "excluded_amount": { "currency": "RUB", "value": 0 },
+        "benefits": [],
+        "gross_amount": { "currency": "RUB", "value": 5000 },
+        "all_inclusive_amount": { "value": 5000, "currency": "RUB" },
+        "items": [
+          {
+            "name": "НДС",
+            "base": { "percentage": 20.0, "kind": "percentage" },
+            "inclusion_type": "included",
+            "item_amount": { "currency": "RUB", "value": 833.333333333333 },
+            "kind": "charge",
+            "details": "НДС в размере 20 % "
+          }
+        ],
+        "included_taxes_and_charges_amount": {
+          "value": 833.333333333333,
+          "currency": "RUB"
+        }
+      },
+      "districts": "1701,2133,8161,12109",
+      "badges": [],
+      "zip": "119180",
+      "unit_configuration_label": "<b>Номер в отеле</b>: 1 кровать",
+      "is_no_prepayment_block": 1,
+      "distance": "1.46",
+      "soldout": 0,
+      "city_in_trans": "в Москве",
+      "currency_code": "RUB",
+      "hotel_has_vb_boost": 0,
+      "countrycode": "ru",
+      "is_genius_deal": 0,
+      "id": "property_card_41282",
+      "default_language": "en",
+      "default_wishlist_name": "Москва",
+      "latitude": 55.73911326,
+      "native_ad_id": "",
+      "selected_review_topic": null,
+      "is_geo_rate": "",
+      "class_is_estimated": 0,
+      "preferred": 1,
+      "bwallet": { "hotel_eligibility": 0 },
+      "timezone": "Europe/Moscow",
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/238791445.jpg?k=2580e30d1a1221dd9f0f576202788910ba42349480be9c5aa34fd45b6d0d9624&o=",
+      "city": "Moscow",
+      "review_nr": 2968,
+      "block_ids": ["4128201_94104729_1_42_0"],
+      "address_trans": "Улица Большая Полянка 17 стр.1",
+      "currencycode": "RUB",
+      "city_name_en": "Moscow",
+      "wishlist_count": 0,
+      "checkout": { "from": "07:00", "until": "12:00" },
+      "review_score_word": "Очень хорошо",
+      "children_not_allowed": 0,
+      "country_trans": "Россия",
+      "in_best_district": 0,
+      "accommodation_type": 204,
+      "hotel_id": 41282,
+      "ufi": -2960561,
+      "url": "https://www.booking.com/hotel/ru/park-inn-sadu.html",
+      "review_score": 8.1,
+      "price_is_final": 1,
+      "longitude": 37.61790633,
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/238791445.jpg?k=2580e30d1a1221dd9f0f576202788910ba42349480be9c5aa34fd45b6d0d9624&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/238791445.jpg?k=2580e30d1a1221dd9f0f576202788910ba42349480be9c5aa34fd45b6d0d9624&o="
+    },
+    {
+      "accommodation_type_name": "Отель",
+      "address": "Izmailovskoye Shosse 71 building A",
+      "district_id": 5515,
+      "main_photo_id": 184313527,
+      "is_free_cancellable": 1,
+      "is_smart_deal": 0,
+      "review_recommendation": "",
+      "native_ads_tracking": "",
+      "hotel_name_trans": "Гостиница Альфа Измайлово",
+      "is_beach_front": 0,
+      "city_trans": "Москва",
+      "hotel_include_breakfast": 0,
+      "distance_to_cc": "9.35",
+      "mobile_discount_percentage": 0,
+      "price_breakdown": {
+        "has_tax_exceptions": 0,
+        "has_incalculable_charges": 0,
+        "sum_excluded_raw": "0.00",
+        "currency": "RUB",
+        "has_fine_print_charges": 1,
+        "all_inclusive_price": 3192.0,
+        "gross_price": "3192.00"
+      },
+      "preferred_plus": 0,
+      "genius_discount_percentage": 0,
+      "cc1": "ru",
+      "hotel_name": "Izmailovo Alfa Hotel",
+      "min_total_price": 3192,
+      "cc_required": 1,
+      "cant_book": 0,
+      "native_ads_cpc": 0.0,
+      "checkin": { "until": "00:00", "from": "14:00" },
+      "type": "property_card",
+      "district": "Измайлово",
+      "is_city_center": 0,
+      "extended": 0,
+      "distances": [
+        {
+          "text": "‎Измайлово‬ • ‎9 км от центра‬",
+          "icon_name": "bui_geo_pin",
+          "icon_set": null
+        }
+      ],
+      "is_mobile_deal": 0,
+      "class": 4.0,
+      "review_nr": 16878,
+      "city": "Moscow",
+      "block_ids": ["17925501_230105225_0_42_0"],
+      "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/184313527.jpg?k=07abab4f939cfe6fe175f2061fb590b858119f5a0bdacaebf243e4e20327010e&o=",
+      "timezone": "Europe/Moscow",
+      "checkout": { "until": "12:00", "from": "" },
+      "wishlist_count": 0,
+      "city_name_en": "Moscow",
+      "address_trans": "Измайловское шоссе 71 корпус А",
+      "currencycode": "RUB",
+      "selected_review_topic": null,
+      "is_geo_rate": "",
+      "native_ad_id": "",
+      "latitude": 55.7896105882142,
+      "default_wishlist_name": "Москва",
+      "bwallet": { "hotel_eligibility": 0 },
+      "preferred": 1,
+      "class_is_estimated": 0,
+      "hotel_id": 179255,
+      "accommodation_type": 204,
+      "in_best_district": 0,
+      "country_trans": "Россия",
+      "review_score": 8.7,
+      "longitude": 37.7493372559547,
+      "price_is_final": 0,
+      "ufi": -2960561,
+      "url": "https://www.booking.com/hotel/ru/izmailovo-alpha.html",
+      "children_not_allowed": 0,
+      "review_score_word": "Потрясающе",
+      "unit_configuration_label": "<b>Номер в отеле</b>: 1 кровать",
+      "soldout": 0,
+      "is_no_prepayment_block": 1,
+      "distance": "9.34",
+      "districts": "5515",
+      "composite_price_breakdown": {
+        "strikethrough_amount_per_night": { "value": 5320, "currency": "RUB" },
+        "items": [
+          {
+            "kind": "charge",
+            "details": "НДС в размере 20 % ",
+            "inclusion_type": "included",
+            "item_amount": { "value": 532, "currency": "RUB" },
+            "base": { "kind": "percentage", "percentage": 20.0 },
+            "name": "НДС"
+          },
+          {
+            "identifier": "limited-time-deal",
+            "base": { "kind": "rate" },
+            "name": "Ограниченное предложение",
+            "details": "Вы получаете скидку, потому что здесь в течение ограниченного времени действуют более низкие цены на некоторые номера, которые соответствуют критериям вашего поиска.",
+            "kind": "discount",
+            "item_amount": { "currency": "RUB", "value": 2128 }
+          }
+        ],
+        "benefits": [
+          {
+            "icon": null,
+            "badge_variant": "constructive",
+            "details": "Вы получаете более низкую цену, потому что здесь есть кратковременное предложение. Оно действует не более 48 часов.",
+            "identifier": "limited-time-deal",
+            "kind": "badge",
+            "name": "Ограниченное предложение"
+          }
+        ],
+        "strikethrough_amount": { "currency": "RUB", "value": 5320 },
+        "gross_amount": { "value": 3192, "currency": "RUB" },
+        "discounted_amount": { "currency": "RUB", "value": 2128 },
+        "all_inclusive_amount": { "value": 3192, "currency": "RUB" },
+        "included_taxes_and_charges_amount": {
+          "currency": "RUB",
+          "value": 532
+        },
+        "net_amount": { "currency": "RUB", "value": 2660 },
+        "product_price_breakdowns": [
+          {
+            "gross_amount": { "value": 3192, "currency": "RUB" },
+            "discounted_amount": { "currency": "RUB", "value": 2128 },
+            "strikethrough_amount_per_night": {
+              "value": 5320,
+              "currency": "RUB"
+            },
+            "all_inclusive_amount": { "value": 3192, "currency": "RUB" },
+            "items": [
+              {
+                "kind": "charge",
+                "details": "НДС в размере 20 % ",
+                "inclusion_type": "included",
+                "item_amount": { "value": 532, "currency": "RUB" },
+                "base": { "kind": "percentage", "percentage": 20.0 },
+                "name": "НДС"
+              },
+              {
+                "item_amount": { "value": 2128, "currency": "RUB" },
+                "details": "Вы получаете скидку, потому что здесь в течение ограниченного времени действуют более низкие цены на некоторые номера, которые соответствуют критериям вашего поиска.",
+                "kind": "discount",
+                "name": "Ограниченное предложение",
+                "base": { "kind": "rate" },
+                "identifier": "limited-time-deal"
+              }
+            ],
+            "included_taxes_and_charges_amount": {
+              "currency": "RUB",
+              "value": 532
+            },
+            "net_amount": { "currency": "RUB", "value": 2660 },
+            "gross_amount_per_night": { "value": 3192.0, "currency": "RUB" },
+            "excluded_amount": { "currency": "RUB", "value": 0 },
+            "strikethrough_amount": { "value": 5320, "currency": "RUB" },
+            "benefits": [
+              {
+                "name": "Ограниченное предложение",
+                "kind": "badge",
+                "identifier": "limited-time-deal",
+                "badge_variant": "constructive",
+                "icon": null,
+                "details": "Вы получаете более низкую цену, потому что здесь есть кратковременное предложение. Оно действует не более 48 часов."
+              }
+            ]
+          }
+        ],
+        "gross_amount_per_night": { "currency": "RUB", "value": 3192.0 },
+        "excluded_amount": { "value": 0, "currency": "RUB" }
+      },
+      "hotel_facilities": "444,10,110,305,506,466,411,64,456,3,28,47,485,75,7,186,438,445,423,304,489,451,461,449,127,496,436,421,107,11,109,458,73,129,503,48,124,418,176,442,44,463,453,491,203,15,16,210,182,142,80,96,424,439,22,52,443,437,425,126,502,462,219,488,101,420,59,435,241,495,53,23,177,63,91,158,459,108,81,180,140,133,492,51,209,161,450,49,43,457,189,467,5,184,78,455,111,465,410,422,204,419,446,205,6,8,185,486,454,2,17,25",
+      "zip": "105613",
+      "badges": [
+        {
+          "text": "Ограниченное предложение",
+          "badge_variant": "constructive",
+          "id": "deal_of_the_day"
+        }
+      ],
+      "id": "property_card_179255",
+      "countrycode": "ru",
+      "is_genius_deal": 0,
+      "default_language": "en",
+      "hotel_has_vb_boost": 0,
+      "currency_code": "RUB",
+      "city_in_trans": "в Москве",
+      "max_photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/184313527.jpg?k=07abab4f939cfe6fe175f2061fb590b858119f5a0bdacaebf243e4e20327010e&o=",
+      "max_1440_photo_url": "https://cf.bstatic.com/xdata/images/hotel/1440x1440/184313527.jpg?k=07abab4f939cfe6fe175f2061fb590b858119f5a0bdacaebf243e4e20327010e&o="
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+
+.footer .container {  
+  height: 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.flex{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.rssschool{
+  width: 150px;
+  height: 50px;
+  background: url(https://rs.school/images/rs_school_js.svg) no-repeat center center;
+}
+
+.link-git{
+  margin-left: 20px;
+  font-size: 26px;
+  font-weight: 900;
+  color: black;
+}
+
+.year{
+  font-size: 30px;
+}

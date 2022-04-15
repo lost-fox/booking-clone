@@ -1,0 +1,96 @@
+
+.city-anim {
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.city-bg {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    z-index: 1;
+    transform: scale(-1, 1);
+  }
+  
+.city-bg img {
+  width: 100%;
+}
+  
+.city-sun {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 60%;
+    bottom: -50px;
+    animation: orbit 30s linear infinite;
+    z-index: 0;
+}
+
+.city-sun img {
+  animation: sunRotating 10s linear infinite;
+}
+
+.night-day-mode {
+  animation: changeCycleTwo 30s linear infinite;
+}
+
+
+@keyframes changeCycle {
+  0% {
+    background: hsl(49, 82%,  63%);
+  }
+  25% {
+    background: hsl(179, 54%, 70%);
+  }
+  50% {
+    background: hsl(203, 79%,  68%);
+  }
+  75% {
+    background: #38495F;
+  }
+  100% {
+    background: hsl(49, 82%,  63%);
+  }
+}
+
+@keyframes changeCycleTwo {
+  0% {
+    background: hsl(215, 25%, 40%);
+  }
+  25% {
+    background: hsl(215, 22%, 19%);
+  }
+  50% {
+    background: rgb(197, 128, 1);
+  }
+  75% {
+    background: hsl(179, 54%, 70%);
+  }
+  100% {
+    background: hsl(215, 25%, 40%);
+  }
+}
+
+@keyframes orbit {
+	 from { transform: rotate(0deg) translateX(500px) rotate(0deg); }
+    to   { transform: rotate(360deg) translateX(500px) rotate(-360deg); }
+}
+
+
+@keyframes sunRotating {
+  from {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}

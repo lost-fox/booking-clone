@@ -1,0 +1,17 @@
+.inner-right {
+  text-align: center;
+  padding-top: 100px;
+  width: 15% !important;
+  position: absolute;
+  top: 510px;
+  right: 10%;
+}
+.inner-right .ant-btn-primary {
+  width: 300px !important;
+  height: 60px !important;
+  font-size: 16px !important;
+  font-weight: bold !important;
+}
+.inner-right .ant-btn-primary:hover {
+  background-color: rgb(105, 127, 199);
+}

@@ -1,0 +1,10 @@
+.hotel-title {
+  font-size: 42px;
+  font-weight: 700;
+  margin-bottom: 60px;
+  position: absolute;
+  top: 600px;
+  color: #fff;
+  left: 200px;
+  max-width: 60%;
+}

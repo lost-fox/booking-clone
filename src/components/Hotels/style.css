@@ -1,0 +1,167 @@
+.hotels {
+  padding-top: 30px;
+  padding-bottom: 70px;
+}
+.hotels > .container {
+  display: flex;
+}
+.hotels-filters {
+  width: 300px;
+  padding-top: 20px;
+  padding-right: 30px;
+}
+.filter-block {
+  margin-bottom: 20px;
+}
+.filter-block input {
+  width: 90% !important;
+}
+.filter-title {
+  display: block;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 15px;
+  margin-bottom: 15px;
+}
+.filter-title-select {
+  margin-bottom: 5px;
+}
+.filter-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 44px;
+  border: 1px solid rgba(31, 32, 65, 0.25);
+  border-radius: 4px;
+  padding: 0 15px;
+  font-size: 16px;
+  width: 90%;
+}
+.change-filter-btn {
+  position: relative;
+  display: block;
+  background: url(./../../assets/more.png);
+  width: 25px;
+  height: 20px;
+  background-size: contain;
+  border: none;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+.filter-details {
+  font-size: 12px;
+  line-height: 14px;
+  color: rgba(31, 32, 65, 0.5);
+}
+.hotels-cards {
+  width: 80%;
+}
+.hotels-cards-title {
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 29px;
+  color: #1f2041;
+  margin-bottom: 40px;
+}
+.hotels-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+.comfortables-select {
+  position: absolute;
+  z-index: 100;
+  width: 76%;
+  padding-left: 15px;
+  padding-right: 7px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 1px solid rgba(31, 32, 65, 0.25);
+  border-top: none;
+  box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.05);
+  border-radius: 4px;
+  background-color: #fff;
+}
+.comfortable-name {
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: #1f2041;
+}
+.comfortables-option {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.comf-counter {
+  display: flex;
+  align-items: center;
+  width: 92px;
+  justify-content: space-between;
+}
+
+.comf-btn {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  border: 1px solid rgba(31, 32, 65, 0.5);
+  font-size: 18px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(31, 32, 65, 0.7);
+  cursor: pointer;
+  transition: 0.2s;
+  user-select: none;
+}
+.comf-btn:hover {
+  background-color: #bc9cff;
+  border: 1px solid#BC9CFF;
+  color: #fff;
+  font-weight: bold;
+}
+.comf-count {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 15px;
+  color: #1f2041;
+}
+.count-ranges {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  width: 85%;
+  color: rgba(31, 32, 65, 0.7);
+  font-size: 14px;
+}
+
+::-webkit-calendar-picker-indicator {
+  color: transparent;
+  opacity: 1;
+  background: url(./../../assets/more.png) no-repeat center;
+  background-size: contain;
+  width: 20px;
+  height: 15px;
+}
+.ant-pagination-simple .ant-pagination-simple-pager, .ant-pagination {
+  display: flex !important;
+  justify-content: center;
+}
+.filters-hotel-input {
+  width: 82% !important;
+  height: 40px;
+}
+.category-rule {
+  margin-bottom: 30px;
+}
+.hidden {
+  display: none;
+}

@@ -1,0 +1,14 @@
+.container-room {
+  display: flex;
+}
+
+.inner-left {
+  width: 100%;
+}
+
+.inner-right {
+  width: 35%;
+}
+.room-rating .ant-divider-inner-text {
+  margin-left: 10%;
+}

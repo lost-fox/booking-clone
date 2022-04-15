@@ -1,0 +1,72 @@
+.rule-checkbox {
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+/* для элемента input c type="checkbox" */
+.custom-checkbox {
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+}
+
+/* для элемента label, связанного с .custom-checkbox */
+.custom-checkbox + label {
+  display: flex;
+  align-items: flex-start;
+  user-select: none;
+}
+
+/* создание в label псевдоэлемента before со следующими стилями */
+.custom-checkbox + label::before {
+  content: '';
+  display: block;
+  width: 1.25em;
+  height: 1.25em;
+  flex-shrink: 0;
+  flex-grow: 0;
+  margin-right: 0.5em;
+  background-repeat: no-repeat;
+  background-size: 80%;
+  background-position: center center;
+  border: 1px solid rgba(31, 32, 65, 0.25);
+  border-radius: 4px;
+}
+
+/* стили при наведении курсора на checkbox */
+.custom-checkbox:not(:disabled):not(:checked) + label:hover::before {
+  border-color: #bb8bf9;
+}
+
+/* стили для активного чекбокса (при нажатии на него) */
+.custom-checkbox:not(:disabled):active + label::before {
+  background-color: #8ba4f9;
+  border-color: #8ba4f9;
+}
+
+/* стили для чекбокса, находящегося в фокусе */
+.custom-checkbox:focus + label::before {
+  box-shadow: 0 0 0 0.2rem rgba(182, 107, 252, 0.25);
+}
+
+/* стили для чекбокса, находящегося в фокусе и не находящегося в состоянии checked */
+.custom-checkbox:focus:not(:checked) + label::before {
+  border-color: #bc9cff;
+}
+
+/* стили для чекбокса, находящегося в состоянии checked */
+.custom-checkbox:checked + label::before {
+  opacity: 1;
+  border-color: #bc9cff;
+  background-image: url('./../../../../assets/checked.png');
+}
+.checkbox-text,
+.filter-count {
+  font-size: 14px;
+  line-height: 18px;
+  color: rgba(31, 32, 65, 0.7);
+}
+.filter-count {
+  font-size: 12px;
+  padding-left: 30px;
+}

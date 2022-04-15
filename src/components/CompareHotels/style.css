@@ -1,0 +1,63 @@
+.compare-hotels {
+  padding-top: 30px;
+}
+.compare-hotels .hotels-cards-title {
+  margin-bottom: 60px;
+}
+.compare-container {
+  display: flex;
+  justify-content: space-between;
+}
+.compare-block {
+  display: inline-block;
+  width: 45%;
+}
+.compare-block-title {
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+.compare-hotel-img {
+  height: 550px;
+}
+.compare-hotel-slider {
+  width: 100%;
+  height: 550px;
+}
+.compare-hotel-title {
+  font-size: 22px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.compare-photos {
+  margin-bottom: 50px;
+}
+.compare-hotel-block {
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+.compare-rate-num {
+  font-weight: bold;
+  font-size: 36px;
+}
+.compare-text {
+  font-size: 18px;
+  margin-top: 10px;
+}
+.compare-hotels-back {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 40px;
+  border: 1px solid #8ba4f9;
+  cursor: pointer;
+  transition: .2s;
+  border-radius: 4px;
+  margin-bottom: 50px;
+}
+.compare-hotels-back:hover {
+  background-color: #8ba4f9;
+  color: #fff;
+}

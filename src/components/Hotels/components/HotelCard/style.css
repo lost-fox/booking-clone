@@ -1,0 +1,99 @@
+.hotel-card {
+  position: relative;
+  width: 330px;
+  box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.1);
+  border-radius: 4px;
+  padding-bottom: 20px;
+  margin-bottom: 25px;
+  color: #000;
+  padding-bottom: 70px;
+}
+.hotel-card:hover {
+  color: #000;
+}
+.hotel-name {
+  display: block;
+  text-align: center;
+  font-size: 20px;
+}
+.hotel-description {
+  text-align: center;
+  display: block;
+  font-size: 16px;
+}
+.hotel-card-img {
+  position: relative;
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  margin-bottom: 20px;
+  border-radius: 4px 4px 0px 0px;
+}
+.hotel-card-info {
+  padding: 0 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 15px 0;
+  font-size: 16px;
+}
+.info-num {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 17px;
+  color: #1f2041;
+}
+.info-vip {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: #bc9cff;
+}
+.info-cost {
+  font-size: 18px;
+  line-height: 18px;
+  color: rgba(31, 32, 65, 0.7);
+}
+.card-info-line {
+  width: 87%;
+  background: rgba(31, 32, 65, 0.3);
+  border: none;
+  height: 1px;
+  margin: auto;
+}
+.favorite-icon {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background-image: url(../../../../assets/not-favorite.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  right: 10px;
+  top: 10px;
+  cursor: pointer;
+}
+.favorite {
+  background-image: url(../../../../assets/favorite.png);
+}
+.more-hotel-btn {
+  position: absolute !important;
+  right: 20px;
+  bottom: 20px;
+}
+.rate-icon {
+  color: '#BC9CFF';
+}
+.compared-card-btn {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  width: 40px;
+  height: 40px;
+  background-image: url(./../../../../assets/add-to-compare.png);
+  background-size: contain;
+  cursor: pointer;
+}
+.active-compare {
+  background-image: url(./../../../../assets/compared.png);
+}
